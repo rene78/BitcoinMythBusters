@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>BTC MythBusters</h1>
   <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of docsify-awesome repository">
 </div>
 
