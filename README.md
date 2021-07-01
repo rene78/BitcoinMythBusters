@@ -6,7 +6,7 @@
 
 # What it is
 
-Are you tired of refuting the same criticism about Bitcoin in forums and in real life? *BTC Mythbusters* will help you to give the right answers.
+Are you tired of refuting the same criticism about Bitcoin in forums and in real life? *BTC Mythbusters* will help you to give conclusive answers.
 
 # Support
 
