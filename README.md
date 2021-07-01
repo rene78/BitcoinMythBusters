@@ -1,4 +1,6 @@
-# BTC MythBusters
+<div align="center">
+  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of docsify-awesome repository">
+</div>
 
 > **Anwers to common misconceptions regarding Bitcoin.**
 
@@ -16,8 +18,20 @@ You can add or edit questions and answers in your native language by clicking th
 
 ## Bitcoin Has No Intrinsic Value
 
-### Rebuttal
+**Rebuttal**
+
 gfsdcscs
 
-### Detailed Rebuttal
+**Detailed Rebuttal**
+
+sdafdvgv
+
+## Bitcoin is only used by criminals
+
+**Rebuttal**
+
+gfsdcscs
+
+**Detailed Rebuttal**
+
 sdafdvgv
