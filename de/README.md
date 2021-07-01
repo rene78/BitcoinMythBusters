@@ -14,7 +14,7 @@ Sie können Fragen und Antworten in Ihrer Muttersprache hinzufügen oder bearbei
 
 ***
 
-# Kritiker und Gegenargumente
+# Kritiken und Gegenargumente
 
 ## Bitcoin hat keinen intrinsischen Wert
 
@@ -35,5 +35,3 @@ gfsdcscs
 **Detaillierte Widerlegung**
 
 sdafdvgv
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
