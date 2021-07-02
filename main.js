@@ -47,7 +47,9 @@ window.$docsify = {
   }
 }
 
-//Before page load check if a route is saved in localStorage. If yes navigate to it.
+//Before page load check if a route is saved in localStorage.
+//If yes navigate to it.
+//If no: Load user's favourite language version. If no favourite language available on page: Load English version.
 document.onreadystatechange = () => {
   //First check, if a route is saved in localstorage
   let route = localStorage.getItem("route");

@@ -8,7 +8,7 @@
 
 # What it is
 
-*BTC Mythbusters* will help you to give conclusive answers to found or unfound criticism about Bitcoin. Click on the rebuttal to copy it for usage in whatever online forum you like.
+*BTC Mythbusters* helps you to give conclusive answers to found or unfound criticism about Bitcoin. Click on the rebuttal to copy the text for usage in whatever online forum you like.
 
 # Support
 
