@@ -9,8 +9,8 @@ window.$docsify = {
   search: {
     maxAge: 86400000, // Expiration time, the default one day
     paths: [
-      '/',            // => /README.md
-      '/de/'
+      '/de/',
+      '/'            // => /README.md
     ],
     // Search Localization
     placeholder: {
