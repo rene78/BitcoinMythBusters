@@ -22,6 +22,9 @@ window.$docsify = {
       '/': 'No Results'
     }
   },
+  plugins: [
+    EditOnGithubPlugin.create("https://github.com/rene78/BTCMythBusters/blob/main/", null, "Edit on GitHub")
+  ],
   copyCode: {
     // copyCode Localization
     buttonText: {

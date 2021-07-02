@@ -1,6 +1,6 @@
 <div align="center">
   <h1>BTC MythBusters</h1>
-  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
+  <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
 </div>
 
 > **Antworten auf häufige Missverständnisse bezüglich Bitcoin.**
