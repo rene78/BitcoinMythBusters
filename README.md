@@ -3,7 +3,6 @@
   <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
 </div>
 
-
 > **Clarification of common misconceptions regarding Bitcoin.**
 
 # What it is
@@ -12,28 +11,32 @@
 
 ***
 
-# Critics and rebutals
+# Bitcoin Critiques & Rebuttals
 
 ## Bitcoin Has No Intrinsic Value
 
+Bitcoin is purely digital & backed by nothing, and therefore has no intrinsic value.
+
 **Rebuttal**
+```
+In our digital world there are many precious things, that only exist on computers. The databases of Facebook or Instagram are worth billions of dollars, for example.
 
-  ```
-  Ach was! Des isch doch Quatsch!
-  ```
-
-**Detailed Rebuttal**
-
+(expand...)
+```
 
 ## Bitcoin is only used by criminals
 
 **Rebuttal**
+  ```
+  Text
+  ```
 
-gfsdcscs
+## China Controls Bitcoin
 
-**Detailed Rebuttal**
-
-sdafdvgv
+**Rebuttal**
+  ```
+  Text
+  ```
 
 ***
 
