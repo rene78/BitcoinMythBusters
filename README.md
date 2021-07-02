@@ -1,6 +1,6 @@
 <div align="center">
   <h1>BTC MythBusters</h1>
-  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of docsify-awesome repository">
+  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
 </div>
 
 
@@ -8,7 +8,7 @@
 
 # What it is
 
-Are you tired of refuting the same criticism about Bitcoin in forums and in real life? *BTC Mythbusters* will help you to give conclusive answers.
+*BTC Mythbusters* will help you to give conclusive answers to found or unfound criticism about Bitcoin. Click on the rebuttal to copy it for usage in whatever online forum you like.
 
 # Support
 
@@ -22,11 +22,12 @@ You can add or edit questions and answers in your native language by clicking th
 
 **Rebuttal**
 
-gfsdcscs
+  ```
+  Ach was! Des isch doch Quatsch!
+  ```
 
 **Detailed Rebuttal**
 
-sdafdvgv
 
 ## Bitcoin is only used by criminals
 

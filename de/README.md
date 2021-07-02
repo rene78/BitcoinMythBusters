@@ -1,6 +1,6 @@
 <div align="center">
   <h1>BTC MythBusters</h1>
-  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of docsify-awesome repository">
+  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
 </div>
 
 > **Antworten auf häufige Missverständnisse bezüglich Bitcoin.**
@@ -21,7 +21,9 @@ Sie können Fragen und Antworten in Ihrer Muttersprache hinzufügen oder bearbei
 
 **Widerlegung**
 
-gfsdcscs
+  ```
+  Ach was! Des isch doch Quatsch!
+  ```
 
 **Detaillierte Widerlegung**
 
