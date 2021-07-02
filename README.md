@@ -8,11 +8,7 @@
 
 # What it is
 
-*BTC Mythbusters* helps you to give conclusive answers to found or unfound criticism about Bitcoin. Click on the rebuttal to copy the text for usage in whatever online forum you like.
-
-# Support
-
-You can add or edit questions and answers in your native language by clicking the *Edit* button on each page. The more people help the better this guideline gets!
+*BTC Mythbusters* helps you to give conclusive answers to found or unfound criticism about Bitcoin. Click on the answer to copy the text for usage in whatever online forum you like. No need to waste your time by manually addressing the same concerns over and over again.
 
 ***
 
@@ -38,3 +34,9 @@ gfsdcscs
 **Detailed Rebuttal**
 
 sdafdvgv
+
+***
+
+# Support
+
+You can add or edit questions and answers in your native language by clicking the *Edit* button on each page. The more people help the better this guideline gets!
