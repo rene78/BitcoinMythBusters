@@ -6,6 +6,7 @@ window.$docsify = {
   name: 'BTC MythBusters',
   repo: 'rene78/BTCMythBusters',
   loadNavbar: true,
+  disqus: 'btcmythbusters',
   search: {
     maxAge: 86400000, // Expiration time, the default one day
     paths: [

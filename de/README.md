@@ -9,10 +9,6 @@
 
 Sind Sie es leid, in Foren und im realen Leben immer wieder die gleiche Kritik über Bitcoin zu widerlegen? *BTC Mythbusters* wird Ihnen helfen, die schlüssigen Antworten zu geben.
 
-# Unterstützung
-
-Sie können Fragen und Antworten in Ihrer Muttersprache hinzufügen oder bearbeiten, indem Sie auf den *Bearbeiten* Button auf jeder Seite klicken. Je mehr Leute helfen, desto besser wird dieser Leitfaden!
-
 ***
 
 # Kritiken und Gegenargumente
@@ -38,3 +34,9 @@ gfsdcscs
 **Detaillierte Widerlegung**
 
 sdafdvgv
+
+***
+
+# Unterstützung
+
+Sie können Fragen und Antworten in Ihrer Muttersprache hinzufügen oder bearbeiten, indem Sie auf den *Edit on GitHub* Button auf jeder Seite klicken. Je mehr Leute helfen, desto besser wird dieser Leitfaden!
