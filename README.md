@@ -23,6 +23,10 @@ In our digital world there are many precious things, that only exist on computer
 
 (expand...)
 ```
+here comes the detailed rebuttal
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
 
 ## Bitcoin is only used by criminals
 
@@ -40,6 +44,6 @@ In our digital world there are many precious things, that only exist on computer
 
 ***
 
-# Support
+# Contribute
 
-You can add or edit questions and answers in your native language by clicking the *Edit* button on each page. The more people help the better this guideline gets!
+You can add or edit questions and answers in your native language by clicking the *Edit* button on each page. If you add a new Critic & Rebuttal make sure to **give a summary of your answer in triple-backticks**, thus others can quickly copy & paste it.
