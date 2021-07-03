@@ -25,7 +25,6 @@ In our digital world there are many precious things, that only exist on computer
 ```
 <details>
   <summary>Detailed rebuttal</summary>
-
   here comes the detailed rebuttal
   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
 

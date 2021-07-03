@@ -2,9 +2,14 @@ code {
   white-space: pre-wrap !important;
 }
 
+details {
+  background-color: #F8F8F8;
+}
+
 summary {
   padding: 4px;
-  background-color: #dad1c9;
   border: none;
   cursor: pointer;
+  color: #2c3e50;
+  font-weight: 600;
 }
