@@ -53,5 +53,3 @@ Mögliche Fragen (zu erweitern):
 # Beitragen
 
 Sie können Fragen und Antworten in Ihrer Muttersprache hinzufügen oder bearbeiten, indem Sie auf die Schaltfläche *Bearbeiten* auf jeder Seite klicken. Wenn Sie eine neue Kritik & Widerlegung hinzufügen, stellen Sie sicher, dass Sie eine **Zusammenfassung Ihrer Antwort in Dreifach-Backsticks** geben, damit andere sie schnell kopieren & einfügen können.
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
