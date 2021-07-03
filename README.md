@@ -7,7 +7,7 @@
 
 # What it is
 
-*BTC Mythbusters* helps you to give conclusive answers to found or unfound criticism about Bitcoin. Click on the answer to copy the text for usage in whatever online forum you like. No need to waste your time by manually addressing the same concerns over and over again.
+*BTC Mythbusters* helps you to give conclusive answers to justified or unfound criticism about Bitcoin. Click on the answer to copy the text for usage in whatever online forum you like. No need to waste your time by manually addressing the same concerns over and over again.
 
 ***
 
@@ -15,32 +15,38 @@
 
 ## Bitcoin Has No Intrinsic Value
 
-Bitcoin is purely digital & backed by nothing, and therefore has no intrinsic value.
+> ***Bitcoin is purely digital & backed by nothing, and therefore has no intrinsic value.***
 
 **Rebuttal**
 ```
 In our digital world there are many precious things, that only exist on computers. The databases of Facebook or Instagram are worth billions of dollars, for example.
 
-(expand...)
+(... just an example. Needs to be improved)
 ```
-here comes the detailed rebuttal
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
+<details>
+  <summary>Detailed rebuttal</summary>
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
+  here comes the detailed rebuttal
+  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
+
+  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam magni reiciendis itaque libero possimus totam eligendi mollitia eum? Optio voluptatem magnam explicabo rem sunt sed officia minus quisquam ad repellendus!
+</details>
+
+Possible questions (To be expanded):
 
 ## Bitcoin is only used by criminals
-
-**Rebuttal**
-  ```
-  Text
-  ```
-
+## Bitcoin Has No Intrinsic Value/Bitcoin is not backed by anything
+## The Government Will Shut Bitcoin Down
+## Bitcoin is Too Volatile
+## Bitcoin Wastes Energy
+## Bitcoin Can Be Cloned/Bitcoin will be replaced by a competitor
+## Bitcoin is a Bubble
+## Bitcoin Fails As a Currency
+## Bitcoin Can't Scale
+## Bitcoin Gets Hacked
+## Bitcoin is Being Pumped by Tether
 ## China Controls Bitcoin
-
-**Rebuttal**
-  ```
-  Text
-  ```
+## Bitcoin has failed as a means of payment
 
 ***
 

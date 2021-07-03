@@ -1,0 +1,10 @@
+code {
+  white-space: pre-wrap !important;
+}
+
+summary {
+  padding: 4px;
+  background-color: #dad1c9;
+  border: none;
+  cursor: pointer;
+}
