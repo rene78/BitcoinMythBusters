@@ -52,7 +52,7 @@ blabla
   bla bla
 
   ```mermaid
-  graph LR
+  graph TD
   A[Is Bitcoin functional?] --> |No| B[Bitcoin is not functional for criminals nor anyone else]
   A --> |Yes| C[Bitcoin is functional for everyone, including criminals]
 
