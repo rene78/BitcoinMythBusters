@@ -18,9 +18,7 @@
 
 **Widerlegung**
 ```
-In unserer digitalen Welt gibt es viele wertvolle Dinge, die nur auf Computern existieren. Die Datenbanken von Facebook oder Instagram sind z.B. Milliarden von Dollar wert.
-
-(... nur ein Beispiel. Muss noch verbessert werden)
+Vom Englischen übersetzen. Irgendwas mit "Neuland" einbauen ;)
 ```
 <Details>
   <summary>Detaillierte Gegenargumentation</summary>

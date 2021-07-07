@@ -1,6 +1,9 @@
 //Available languages (except the default English).
 const languages = ["de"];
 
+//Initialize mermaid - graphs in markdown
+mermaid.initialize({ startOnLoad: false });
+
 //docsify settings
 window.$docsify = {
   name: 'BTC MythBusters',
@@ -21,6 +24,18 @@ window.$docsify = {
     noData: {
       '/de/': 'Keine Resultate',
       '/': 'No Results'
+    }
+  },
+  markdown: {
+    renderer: {
+      code: function (code, lang) {
+        if (lang === "mermaid") {
+          return (
+            '<div class="mermaid">' + mermaid.render(lang, code) + "</div>"
+          );
+        }
+        return this.origin.code.apply(this, arguments);
+      }
     }
   },
   plugins: [
@@ -53,7 +68,8 @@ window.$docsify = {
 
 //Before page load check if a route is saved in localStorage.
 //If yes navigate to it.
-//If no: Load user's favourite language version. If no favourite language available on page: Load English version.
+//If no: Check if one of the user's favourite browser languages is available on page.
+//If no favourite language available on page: Load English version (default).
 document.onreadystatechange = () => {
   //First check, if a route is saved in localstorage
   let route = localStorage.getItem("route");
