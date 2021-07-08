@@ -49,7 +49,7 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
 
   <summary>Detailed rebuttal</summary>
 
-  It is unlogical to say that Bitcoin in only used for criminal activities while at the same time denying its usability as money for all of us.
+  It is unlogical to say that Bitcoin is only used for criminal activities while at the same time denying its usability as money for all of us.
 
   ```mermaid
   graph TD
@@ -60,7 +60,7 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
   style C fill:#42B983
   ```
 
-  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Micheal Morell concluded in his research that only about 1% of all Bitcoin transactions can be linked to illegal actions. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
+  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Micheal Morell concluded in his research that **only about 1%** of all Bitcoin transactions can be **linked to illegal actions**. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
 
   Further reading: [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
 
@@ -71,6 +71,27 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
 Possible questions (To be expanded):
 
 ## The Government Will Shut Bitcoin Down
+
+> ***Governments will not allow a competing currency which they cannot control.***
+
+**Rebuttal**
+```
+The decentralized nature of Bitcoin makes it impossible even for governments to eliminate it completely. By trying, companies in these countries could lose the ability to compete in a financial sector completely reshaped by cryptocurrencies.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  More and more influential individuals and companies <sup id="shut-down-link-to-footnote1">[1](#shut-down-footnote1)</sup> are invested and believe in the cryptocurrency. El Salvador was the first country to declare Bitcoin as legal tender <sup id="shut-down-link-to-footnote2">[2](#shut-down-footnote2)</sup>. This rapidly evolving trend makes it increasingly difficult to prevent the further propagation without provoking counter-reactions.
+
+  Further reading: [Quillette - Can Governments Stop Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
+
+  <b id="shut-down-footnote1">1</b> [CNBC - BlackRock’s Rick Rieder says the world’s largest asset manager has ‘started to dabble’ in bitcoin](https://www.cnbc.com/2021/02/17/blackrock-has-started-to-dabble-in-bitcoin-says-rick-rieder.html) [↩](#shut-down-link-to-footnote1)
+
+  <b id="shut-down-footnote2">2</b> [Reuters - In a world first, El Salvador makes bitcoin legal tender](https://www.cnbc.com/2021/02/17/blackrock-has-started-to-dabble-in-bitcoin-says-rick-rieder.html) [↩](#shut-down-link-to-footnote2)
+
+</details>
+
 ## Bitcoin is Too Volatile
 ## Bitcoin Wastes Energy
 ## Bitcoin Can Be Cloned/Bitcoin will be replaced by a competitor
@@ -78,8 +99,8 @@ Possible questions (To be expanded):
 ## Bitcoin Fails As a Currency/Bitcoin has failed as a means of payment
 ## Bitcoin Can't Scale
 ## Bitcoin Gets Hacked
-## Bitcoin is Being Pumped by Tether
-## China Controls Bitcoin
+## Bitcoin can be killed by Quantum computers
+## Bitcoin is controlled by China
 
 ***
 
