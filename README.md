@@ -43,28 +43,28 @@ Mankind evaluates every invention based on its utility for a particular purpose.
 
 **Rebuttal**
 ```
-blabla
+Independent reports suggest that the illicit use of Bitcoin is not higher than in the traditional banking system. Like any useful technology Bitcoin can be used to do good or harm.
 ```
 <details>
 
   <summary>Detailed rebuttal</summary>
 
-  bla bla
+  It is unlogical to say that Bitcoin in only used for criminal activities while at the same time denying its usability as money for all of us.
 
   ```mermaid
   graph TD
-  A[Is Bitcoin functional?] --> |No| B[Bitcoin is not functional for criminals nor anyone else]
-  A --> |Yes| C[Bitcoin is functional for everyone, including criminals]
+  A[Is Bitcoin functional?] --> |No| B[Bitcoin is not functional <br/>for criminals nor anyone else]
+  A --> |Yes| C[Bitcoin is functional for everyone,<br/>including criminals]
 
   style B fill:#ff6666
   style C fill:#42B983
   ```
 
+  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Micheal Morell concluded in his research that only about 1% of all Bitcoin transactions can be linked to illegal actions. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
+
   Further reading: [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
 
-  Here's a simple footnote  Bla bla <sup id="no-intrinsic-value-link-to-footnote1">[1](#no-intrinsic-value-footnote1)</sup>
-
-  <b id="no-intrinsic-value-footnote1">1</b> Footnote content here. [↩](#no-intrinsic-value-link-to-footnote1)
+  <b id="criminals-footnote1">1</b> [Michael Morell et al. - An Analysis of Bitcoin’s Use in Illicit Finance](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf) [↩](#criminals-link-to-footnote1)
 
 </details>
 
