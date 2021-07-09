@@ -19,7 +19,7 @@
 
 **Rebuttal**
 ```
-Mankind evaluates every invention based on its utility for a particular purpose. Bitcoin proves its value by continuing to maintain superior monetary characteristics over current forms of money - backed by advanced cryptography and the most resilient computer network in existence.
+Mankind evaluates every invention based on its utility for a particular purpose. Bitcoin proves its value by continuing to maintain superior monetary characteristics over current forms of currency - backed by advanced cryptography and the most resilient computer network in existence.
 ```
 <details>
 
@@ -43,7 +43,7 @@ Mankind evaluates every invention based on its utility for a particular purpose.
 
 **Rebuttal**
 ```
-Independent reports suggest that the illicit use of Bitcoin is not higher than in the traditional banking system. Like any useful technology Bitcoin can be used to do good or harm.
+Independent reports suggest that the illicit use of Bitcoin is not higher than in the traditional banking system. Like any useful technology Bitcoin can be utilized to do good or harm.
 ```
 <details>
 
@@ -93,12 +93,32 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 </details>
 
 ## Bitcoin is Too Volatile
+
+> ***Bitcoin is too volatile in order to use it as a currency or store-of-value.***
+
+**Rebuttal**
+```
+Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. In addition, Bitcoin's volatility decreases as it gathers greater maturity.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  At this point in time, when Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value, it makes sense to consider it as an emerging store of value.
+
+  But even nowadays, when push comes to shove, Bitcoin's "volatility" is barely noticeable when compared to a hyperinflationary currency.
+
+  Further reading: [Unchained Capital - Bitcoin Is Not Too Volatile](https://unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
+
+</details>
+
 ## Bitcoin Wastes Energy
 ## Bitcoin Can Be Cloned/Bitcoin will be replaced by a competitor
 ## Bitcoin is a Bubble
 ## Bitcoin Fails As a Currency/Bitcoin has failed as a means of payment
 ## Bitcoin Can't Scale
 ## Bitcoin Gets Hacked
+## Bitcoin is a Ponzi scheme
 ## Bitcoin can be killed by Quantum computers
 ## Bitcoin is controlled by China
 
