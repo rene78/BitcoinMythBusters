@@ -98,13 +98,15 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 **Rebuttal**
 ```
-Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. In addition, Bitcoin's volatility decreases as it gathers greater maturity.
+Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. In addition, Bitcoin's volatility decreases as it gathers greater maturity and adoption.
 ```
 <details>
 
   <summary>Detailed rebuttal</summary>
 
-  At this point in time, when Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value, it makes sense to consider it as an emerging store of value.
+  At this point in time, as Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value, it makes sense to consider it as an emerging store of value.
+
+  If Bitcoin ever reaches the status of a world reserve currency it can be assumed that the price will develop in tandem with the world economy.
 
   But even nowadays, when push comes to shove, Bitcoin's "volatility" is barely noticeable when compared to a hyperinflationary currency.
 
