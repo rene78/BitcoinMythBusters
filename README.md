@@ -94,7 +94,7 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 ## Bitcoin is Too Volatile
 
-> ***Bitcoin is too volatile in order to use it as a currency or store-of-value.***
+> ***Bitcoin is too volatile in order to be used as currency or store-of-value.***
 
 **Rebuttal**
 ```
@@ -115,6 +115,26 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 </details>
 
 ## Bitcoin Wastes Energy
+
+> ***Bitcoin mining uses huge amounts of energy without anything in return.***
+
+**Rebuttal**
+```
+The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin's miners tend to set up their equipment in places with the lowest energy costs, which are often renewable energy sources.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  some bullets
+  * How much is a decentralized financial system worth to us?
+  * Even if price will rise much higher the energy consumption shouldn't increase as quickly due to the reward halving every 4 years
+  * NO WHATABOUTISM! (Current financial system needs a lot of energy, too)
+
+  Further reading: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+
+</details>
+
 ## Bitcoin Can Be Cloned/Bitcoin will be replaced by a competitor
 ## Bitcoin is a Bubble
 ## Bitcoin Fails As a Currency/Bitcoin has failed as a means of payment
