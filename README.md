@@ -1,6 +1,6 @@
 <div align="center">
   <h1>BTC MythBusters</h1>
-  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
+  <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
 </div>
 
 > **Clarification of common misconceptions regarding Bitcoin.**
@@ -116,20 +116,21 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 
 ## Bitcoin Wastes Energy
 
-> ***Bitcoin mining uses huge amounts of energy without anything in return.***
+> ***Bitcoin mining uses ever increasing amounts of energy without anything in return.***
 
 **Rebuttal**
 ```
-The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin's miners tend to set up their equipment in places with the lowest energy costs, which are often renewable energy sources.
+The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. Renewable energy sources perform remarkably well in this regard.
+
+How much does mankind value a completely decentralized and censorship resistant monetary system for everyone - independent of race, personal wealth, or the degree of government incompetency/malignancy?
 ```
 <details>
 
   <summary>Detailed rebuttal</summary>
 
-  some bullets
-  * How much is a decentralized financial system worth to us?
-  * Even if price will rise much higher the energy consumption shouldn't increase as quickly due to the reward halving every 4 years
-  * NO WHATABOUTISM! (Current financial system needs a lot of energy, too)
+  There is no denying that Bitcoin mining will always stand in competition with other energy users for electricity. Nonetheless there are global regions, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome.
+
+  The amount of energy needed to secure the network should reach a plateau at some point in time due to the reward halving, which happens every 4 years.
 
   Further reading: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
 
