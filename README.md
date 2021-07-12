@@ -122,15 +122,23 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 ```
 The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. Renewable energy sources perform remarkably well in this regard.
 
-How much does mankind value a completely decentralized and censorship resistant monetary system for everyone - independent of race, personal wealth, or the degree of government incompetency/malignancy?
+The big question, however, is another:
+How much does mankind value a scarce, completely decentralized and censorship resistant monetary system open for everyone - independent of race, personal wealth, or the degree of government incompetency/malignancy?
 ```
 <details>
 
   <summary>Detailed rebuttal</summary>
 
-  There is no denying that Bitcoin mining will always stand in competition with other energy users for electricity. Nonetheless there are global regions, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome.
+  There is no denying that Bitcoin mining will always stand in competition with other energy users for electricity. Nonetheless there are regions in the world, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome.
 
-  The amount of energy needed to secure the network should reach a plateau at some point in time due to the reward halving, which happens every 4 years.
+  The reward halving, which happens every 4 years has an important impact on the energy usage:
+  * Scenario 1: The price of Bitcoin continues to appreciate substantially
+
+    The amount of energy needed will rise much slower than the Bitcoin price and finally reaches a plateau.
+  * Scenario 2: The price of Bitcoin appreciates only slightly
+
+    Less energy is needed to mine Bitcoin due to lower competition in mining.
+
 
   Further reading: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
 
