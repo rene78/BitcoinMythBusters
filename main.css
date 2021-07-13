@@ -19,3 +19,9 @@ summary {
   color: #2c3e50;
   font-weight: 600;
 }
+
+/* Styling of picture caption (https://stackoverflow.com/a/30366422/5263954) */
+/* Select all em elements, that are placed immediately after img elements */
+img + em {
+  display: block;
+}

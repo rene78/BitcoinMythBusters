@@ -1,13 +1,13 @@
 <div align="center">
   <h1>BTC MythBusters</h1>
-  <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
+  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
 </div>
 
 > **Clarification of common misconceptions regarding Bitcoin.**
 
 # What it is
 
-*BTC Mythbusters* helps you to give conclusive answers to justified or unfound criticism about Bitcoin. Click on the answer to copy the text for usage in whatever online forum you like. No need to waste your time by manually addressing the same concerns over and over again.
+*BTC Mythbusters* helps you to give **conclusive answers to justified or unfound criticism about Bitcoin**. Click on the answer to copy the text for usage in whatever online forum you like. **No need to waste your time by manually addressing the same concerns over and over again.**
 
 ***
 
@@ -37,7 +37,7 @@ Mankind evaluates every invention based on its utility for a particular purpose.
 
 </details>
 
-## Bitcoin is only used by criminals
+## Bitcoin Is Only Used By Criminals
 
 > ***Bitcoin is used by drug dealers, money launderers and ransomware attackers; therefore it is bad.***
 
@@ -92,7 +92,7 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 </details>
 
-## Bitcoin is Too Volatile
+## Bitcoin Is Too Volatile
 
 > ***Bitcoin is too volatile in order to be used as currency or store-of-value.***
 
@@ -104,11 +104,13 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 
   <summary>Detailed rebuttal</summary>
 
-  At this point in time, as Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value, it makes sense to consider it as an emerging store of value.
+  At this point in time, as Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value <sup id="volatile-link-to-footnote1">[1](#volatile-footnote1)</sup>, it makes sense to consider it as an emerging store of value.
 
   If Bitcoin ever reaches the status of a world reserve currency it can be assumed that the price will develop in tandem with the world economy.
 
   But even nowadays, when push comes to shove, Bitcoin's "volatility" is barely noticeable when compared to a hyperinflationary currency.
+
+  <b id="volatile-footnote1">1</b> [River Financial - How Much of the World's Money Is in Bitcoin?](https://river.com/learn/how-much-worlds-money-in-bitcoin/) [↩](#volatile-link-to-footnote1)
 
   Further reading: [Unchained Capital - Bitcoin Is Not Too Volatile](https://unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
 
@@ -123,7 +125,7 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. Renewable energy sources perform remarkably well in this regard.
 
 The big question, however, is another:
-How much does mankind value a scarce, completely decentralized and censorship resistant monetary system open for everyone - independent of race, personal wealth, or the degree of government incompetency/malignancy?
+How much does mankind value a scarce, completely decentralized and censorship resistant monetary system that is open for everyone - regardless of race, personal wealth, or the degree of government incompetency/malignancy?
 ```
 <details>
 
@@ -134,7 +136,7 @@ How much does mankind value a scarce, completely decentralized and censorship re
   The reward halving, which happens every 4 years has an important impact on the energy usage:
   * Scenario 1: The price of Bitcoin continues to appreciate substantially
 
-    The amount of energy needed will rise much slower than the Bitcoin price and finally reaches a plateau.
+    The amount of energy needed will rise much slower than the Bitcoin price and finally reach a plateau.
   * Scenario 2: The price of Bitcoin appreciates only slightly
 
     Less energy is needed to mine Bitcoin due to lower competition in mining.
@@ -144,9 +146,48 @@ How much does mankind value a scarce, completely decentralized and censorship re
 
 </details>
 
-## Bitcoin Can Be Cloned/Bitcoin will be replaced by a competitor
+## Bitcoin Can Be Cloned / Will Be Replaced By A Competitor
+
+> ***Bitcoin is open-source and just one of thousands of cryptocurrencies. Thus, Bitcoin is not scarce and cannot be of any value.***
+
+**Rebuttal**
+```
+The Bitcoin network has proven to be working flawlessly since its inception in 2009. This and its unique monetary properties are leading to an ever increasing network effect, which makes it very hard for any competitor in the field of value store and medium of exchange to gain traction.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  Bitcoin can be compared to the protocol on which the internet runs - TCP/IP. It is a rather simple base layer, on which more advanced technologies can be built upon, e.g. HTTP for websites in case of TCP/IP or the Lightning network as a payment layer for Bitcoin. It is extremely unlikely to get worldwide consensus to change the internet protocol, which is used by billions of devices. The same is valid for the Bitcoin protocol.
+
+  All hard forks of Bitcoin (BCH, BSV and others) have not gained any traction and are constantly losing out on all relevant metrics, e.g. hashrate, market cap or node count. 
+
+  Further reading: [Lyn Alden - Analyzing Bitcoin’s Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
+
+</details>
+
 ## Bitcoin is a Bubble
-## Bitcoin Fails As a Currency/Bitcoin has failed as a means of payment
+
+> ***Like the tulip bulbs of 17th-century Holland, Bitcoin is a retail mania, that will vanish.***
+
+**Rebuttal**
+```
+Normally investment bubbles never come back after they burst. Bitcoin on the other hand had multiple of those cycles - with each bubble being larger than the previous one. This can be interpreted as natural adoption loops with more and more people getting curious and learn about the unique properties of Bitcoin during each bull run.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  The chances of Bitcoin to vanish is getting smaller with each new individual, company or state holding it. Bitcoin is showing characteristics of growth - both in price and acceptance metrics - similar to an increasingly dominant tech company or protocol.
+
+  ![Diagram of BTC Market Cap from 2012-2021](./_images/BTC_Market_Cap.png)
+  *Logarithmic display of Bitcoin's increase in market capitalisation from 2012-2021 (Chart Source: Blockchain.com)*
+
+  Further reading: [Satoshi Nakamoto Institute - How We Know Bitcoin Is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
+
+</details>
+
+## Bitcoin Fails As a Currency/fails as a means of payment
 ## Bitcoin Can't Scale
 ## Bitcoin Gets Hacked
 ## Bitcoin is a Ponzi scheme
