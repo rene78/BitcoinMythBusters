@@ -98,7 +98,7 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 **Rebuttal**
 ```
-Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. In addition, Bitcoin's volatility decreases as it gathers greater maturity and adoption.
+Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. The volatility should decrease as it stores more value due to greater adoption and maturity.
 ```
 <details>
 
@@ -188,6 +188,34 @@ Normally investment bubbles never come back after they burst. Bitcoin on the oth
 </details>
 
 ## Bitcoin Fails As a Currency/fails as a means of payment
+
+> ***The slow transaction time, high fees, and volatility disqualify Bitcoin for everyday use as a payment method.***
+
+**Rebuttal**
+```
+The volatility should decrease as Bitcoin stores more value due to greater adoption and maturity. Slow transaction times and the resulting high transaction costs can be solved with the help of layers, which are built on top of the Bitcoin settlement layer. The most popular being the "Lightning Network" at the moment, which enables almost instantanious transactions for neglible fees.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  It is essential for the security of Bitcoin that **as many people as possible can store and update the Blockchain** - a database with all transactions ever made. In order to achieve that the Blockchain size should only grow modestly, which in turn leads to a limited amount of transactions per second and thus elevated transaction fees in times of high traffic. As of today there is no technical solution to increase transaction throughput without sacrificing decentralization and security.
+
+  ```mermaid
+  flowchart LR
+    Scalability o--o Decentralization & Security;
+    Decentralization o--o Security;
+  ```
+  *The Blockchain Trilemma: You can only improve 2 at a time*
+
+  The most promising solution to use Bitcoin even for small purchases while maintaining its unique monetary properties is the second-layer-solution ***Bitcoin Lightning***.
+
+  Further watching:
+  
+  [![IMAGE ALT TEXT](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
+
+</details>
+
 ## Bitcoin Can't Scale
 ## Bitcoin Gets Hacked
 ## Bitcoin is a Ponzi scheme
