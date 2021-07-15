@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>BTC MythBusters</h1>
-  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BTC MythBusters">
+  <h1>BitcoinMythBusters</h1>
+  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
 </div>
 
 > **Clarification of common misconceptions regarding Bitcoin.**
 
 # What it is
 
-*BTC Mythbusters* helps you to give **conclusive answers to justified or unfound criticism about Bitcoin**. Click on the answer to copy the text for usage in whatever online forum you like. **No need to waste your time by manually addressing the same concerns over and over again.**
+*BitcoinMythBusters* helps you to give **conclusive answers to justified or unfound criticism about Bitcoin**. Click on the answer to copy the text for usage in whatever online forum you like. **No need to waste your time by manually addressing the same concerns over and over again.**
 
 ***
 
@@ -166,7 +166,7 @@ The Bitcoin network has proven to be working flawlessly since its inception in 2
 
 </details>
 
-## Bitcoin is a Bubble
+## Bitcoin Is A Bubble
 
 > ***Like the tulip bulbs of 17th-century Holland, Bitcoin is a retail mania, that will vanish.***
 
@@ -187,13 +187,13 @@ Normally investment bubbles never come back after they burst. Bitcoin on the oth
 
 </details>
 
-## Bitcoin Fails As a Currency/fails as a means of payment
+## Bitcoin Fails As A Currency / Cannot Scale
 
-> ***The slow transaction time, high fees, and volatility disqualify Bitcoin for everyday use as a payment method.***
+> ***The volatility, slow transaction time and high fees disqualify Bitcoin for everyday use as a payment method.***
 
 **Rebuttal**
 ```
-The volatility should decrease as Bitcoin stores more value due to greater adoption and maturity. Slow transaction times and the resulting high transaction costs can be solved with the help of layers, which are built on top of the Bitcoin settlement layer. The most popular being the "Lightning Network" at the moment, which enables almost instantanious transactions for neglible fees.
+The volatility should decrease as Bitcoin stores more value due to greater adoption and maturity. Slow transaction times and the resulting high transaction costs can be solved with the help of layers, which are built on top of the Bitcoin settlement layer. The most popular being the "Lightning Network" at the moment, which enables almost instantanious transactions for negligible fees.
 ```
 <details>
 
@@ -211,13 +211,31 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
   The most promising solution to use Bitcoin even for small purchases while maintaining its unique monetary properties is the second-layer-solution ***Bitcoin Lightning***.
 
   Further watching:
-  
+
   [![IMAGE ALT TEXT](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
 
 </details>
 
-## Bitcoin Can't Scale
 ## Bitcoin Gets Hacked
+
+> ***There are plenty of news of Bitcoin getting hacked. It cannot be secure.***
+
+**Rebuttal**
+```
+Bitcoin is working flawlessly almost since its inception in 2009. What is getting hacked are crypto exchanges and other centralized entities. It is similar to stating that the US-Dollar is a bad currency because banks get robbed.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  Bitcoin is by far the most secure network system due to its decentralized nature and the countless specialized computers around the world that ensure the system cannot be tampered with.
+
+  To take full advantage of the security one should make sure to self custody his/her coins.
+
+  > "Not your Keys, not your Coins!" - Andreas M. Antonopoulos
+
+  [![IMAGE ALT TEXT](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
+
 ## Bitcoin is a Ponzi scheme
 ## Bitcoin can be killed by Quantum computers
 ## Bitcoin is controlled by China
@@ -226,4 +244,4 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
 # Contribute
 
-You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critic & Rebuttal make sure to copy a previous question in order to have consistent formatting.
+You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Rebuttal make sure to copy a previous C&R in order to have consistent formatting.

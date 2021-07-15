@@ -6,7 +6,7 @@ mermaid.initialize({ startOnLoad: false });
 
 //docsify settings
 window.$docsify = {
-  name: 'BTC MythBusters',
+  name: 'BitcoinMythBusters',
   repo: 'rene78/BTCMythBusters',
   loadNavbar: true,
   disqus: 'btcmythbusters',

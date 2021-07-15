@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>BTC MythBusters</h1>
-  <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="Logo der BTC MythBusters">
+  <h1>BitcoinMythBusters</h1>
+  <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="Logo der BitcoinMythBusters">
 </div>
 
 > **Klarstellung von verbreiteten Missverständnissen bezüglich Bitcoin.**
 
 # Was es ist
 
-*BTC Mythbusters* hilft Ihnen, berechtigte oder unberechtigte Kritik an Bitcoin schlüssig zu beantworten.  Ein Klick auf die Antwort kopiert den Text zur Verwendung in einem beliebigen Online-Forum. Dadurch brauchen Sie Ihre Zeit nicht damit zu verschwenden, dieselben Bedenken immer und immer wieder händisch zu entkräften.
+*BitcoinMythBusters* hilft Ihnen, berechtigte oder unberechtigte Kritik an Bitcoin schlüssig zu beantworten.  Ein Klick auf die Antwort kopiert den Text zur Verwendung in einem beliebigen Online-Forum. Dadurch brauchen Sie Ihre Zeit nicht damit zu verschwenden, dieselben Bedenken immer und immer wieder händisch zu entkräften.
 
 ***
 
