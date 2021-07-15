@@ -218,7 +218,7 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
 ## Bitcoin Gets Hacked
 
-> ***There are plenty of news of Bitcoin getting hacked. It cannot be secure.***
+> ***There is a lot of news about Bitcoin being hacked and millions of dollars taken. This cannot be a secure system.***
 
 **Rebuttal**
 ```
