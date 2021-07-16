@@ -269,7 +269,7 @@ Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money 
 
 **Rebuttal**
 ```
-This is might be a danger once quantum computers with enough processing power are available (possibly 2035-2050) onwards. Work on post-quantum encryption standards is ongoing and would get implemented into the Bitcoin protocol, once the need arises.
+This might be a danger once quantum computers with enough processing power are available (possibly from 2035-2050). Work on post-quantum encryption standards is ongoing and would get implemented into the Bitcoin protocol, once the need arises.
 ```
 <details>
 
