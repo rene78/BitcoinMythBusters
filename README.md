@@ -222,13 +222,13 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
 **Rebuttal**
 ```
-Bitcoin is working flawlessly almost since its inception in 2009. What is getting hacked are crypto exchanges and other centralized entities. It is similar to stating that the US-Dollar is a bad currency because banks get robbed.
+Bitcoin has been working flawlessly almost since its inception in 2009. What is getting hacked are crypto exchanges and other centralized entities. It is similar to stating that the US-Dollar is a bad currency because banks get robbed.
 ```
 <details>
 
   <summary>Detailed rebuttal</summary>
 
-  Bitcoin is by far the most secure network system due to its decentralized nature and the countless specialized computers around the world that ensure the system cannot be tampered with.
+  Bitcoin is by far the most secure network system due to its decentralized nature and the countless specialized computers around the world, which ensure that the system cannot be tampered with.
 
   To take full advantage of the security one should make sure to self custody his/her coins.
 
@@ -236,8 +236,64 @@ Bitcoin is working flawlessly almost since its inception in 2009. What is gettin
 
   [![IMAGE ALT TEXT](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
 
-## Bitcoin is a Ponzi scheme
-## Bitcoin can be killed by Quantum computers
+</details>
+
+## Bitcoin Is A Ponzi Scheme
+
+> ***Once people stop pouring new money into Bitcoin it will quickly collapse.***
+
+**Rebuttal**
+```
+Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money from old ones, there was no premining of coins and it does not have a leadership team. Bitcoin grew very organically since its creation and the market is pricing the asset, as it sees fit.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  How is a *Ponzi Scheme* actually defined? And does Bitcoin tick the boxes? See below:
+
+  | Signs of a Ponzi scheme | How is it with Bitcoin?|
+  | ------------------------|------------------------|
+  | Promised high investment returns | <span style="color:green">Satoshi (the creator) never promised any return</span> |
+  | Misleading or outright wrongful statements regarding investment strategy | <span style="color:green">Bitcoin has been open-sourced from the very beginning</span> |
+  | "Extroverteted" leadership team | <span style="color:green">Bitcoin's creator is unknown. The rest of the dev community is highly decentralized</span>|
+  | Unregistered Investments and Unlicensed Sellers | <span style="color:red">Bitcoin (luckily) doesn't need a license</span>|
+
+  Further reading: [Lyn Alden - Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
+
+</details>
+
+## Bitcoin Can Be Killed By Quantum Computers
+
+> ***Once a powerful enough quantum computer is available Bitcoin is dead.***
+
+**Rebuttal**
+```
+This is might be a danger once quantum computers with enough processing power are available (possibly 2035-2050) onwards. Work on post-quantum encryption standards is ongoing and would get implemented into the Bitcoin protocol, once the need arises.
+```
+<details>
+
+  <summary>Detailed rebuttal</summary>
+
+  Without quantum-resistant encyryption standards there are 3 possible attack vectors for quantum computers:
+  * **Breaking the hashing algorithm of Bitcoin (SHA-256)**
+
+  At this point in time it is not clear whether quantum computers are able to crack this type of algorithm.
+
+  * **Breaking the public/private key algorithm (ECDSA - Elliptic Curves cryptography)**
+
+  Reused Bitcoin addresses - i.e. addresses which published a signature - are at risk of getting cracked. If SHA-256 can be broken as well then all Bitcoin addresses are vulnerable.
+
+  * **Use quantum computers to mine much more efficiently than with state-of-the-art hardware**
+
+  This would possibly only be a temporary threat until other miners switch to quantum mining as well.
+
+  [![IMAGE ALT TEXT](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
+
+  Further reading: [Forbes - Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/)
+
+</details>
+
 ## Bitcoin is controlled by China
 
 ***
