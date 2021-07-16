@@ -7,7 +7,7 @@ mermaid.initialize({ startOnLoad: false });
 //docsify settings
 window.$docsify = {
   name: 'BitcoinMythBusters',
-  repo: 'rene78/BTCMythBusters',
+  repo: 'rene78/BitcoinMythBusters',
   loadNavbar: true,
   disqus: 'btcmythbusters',
   search: {
@@ -39,7 +39,7 @@ window.$docsify = {
     }
   },
   plugins: [
-    EditOnGithubPlugin.create("https://github.com/rene78/BTCMythBusters/blob/main/", null, "Edit on GitHub")
+    EditOnGithubPlugin.create("https://github.com/rene78/BitcoinMythBusters/blob/main/", null, "Edit on GitHub")
   ],
   copyCode: {
     // copyCode Localization

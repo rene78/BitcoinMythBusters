@@ -68,8 +68,6 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
 
 </details>
 
-Possible questions (To be expanded):
-
 ## The Government Will Shut Bitcoin Down
 
 > ***Governments will not allow a competing currency which they cannot control.***
@@ -287,6 +285,8 @@ This might be a danger once quantum computers with enough processing power are a
   * **Use quantum computers to mine much more efficiently than with state-of-the-art hardware**
 
   This would possibly only be a temporary threat until other miners switch to quantum mining as well.
+
+  Further watching:
 
   [![IMAGE ALT TEXT](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
 
