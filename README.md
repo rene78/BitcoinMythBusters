@@ -253,7 +253,7 @@ Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money 
   | Signs of a Ponzi scheme | How is it with Bitcoin?|
   | ------------------------|------------------------|
   | Promised high investment returns | <span style="color:green">Satoshi (the creator) never promised any return</span> |
-  | Misleading or outright wrongful statements regarding investment strategy | <span style="color:green">Bitcoin has been open-sourced from the very beginning</span> |
+  | Misleading or outright wrongful statements regarding business strategy | <span style="color:green">Bitcoin has been open-sourced from the very beginning</span> |
   | "Extroverteted" leadership team | <span style="color:green">Bitcoin's creator is unknown. The rest of the dev community is highly decentralized</span>|
   | Unregistered Investments and Unlicensed Sellers | <span style="color:red">Bitcoin (luckily) doesn't need a license</span>|
 
