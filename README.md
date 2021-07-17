@@ -302,7 +302,7 @@ This might be a danger once quantum computers with enough processing power are a
 
 You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Rebuttal make sure to copy a previous C&R in order to have consistent formatting.
 
-# Donate
+## Donate
 
 The only cost incurred for this site is the annual payment for the domain name ($12/year). If you feel like helping me on this - thanks very much in advance! With the link below you can donate via Lightning or On-Chain.
 
