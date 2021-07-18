@@ -7,23 +7,23 @@
 
 # What it is
 
-*BitcoinMythBusters* helps you to give **conclusive answers to justified or unfound criticism about Bitcoin**. Click on the answer to copy the text for usage in whatever online forum you like. **No need to waste your time by manually addressing the same concerns over and over again.**
+*BitcoinMythBusters* helps you to give **conclusive answers to justified or unfound criticism about Bitcoin**. Click on the answer to copy the text for usage in whatever social network, forum or messenger app you like. **No need to waste your time by manually addressing the same concerns over and over again.**
 
 ***
 
-# Bitcoin Critiques & Rebuttals
+# Bitcoin Critiques & Answers
 
 ## Bitcoin Has No Intrinsic Value
 
 > ***Bitcoin is entirely digital & not backed by anything and thus has no intrinsic value.***
 
-**Rebuttal**
+**Answer**
 ```
 Mankind evaluates every invention based on its utility for a particular purpose. Bitcoin proves its value by continuing to maintain superior monetary characteristics over current forms of currency - backed by advanced cryptography and the most resilient computer network in existence.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   For supporters, Bitcoin's intrinsic value lies in the fact that it is an **uncorrelated asset**, its intangible properties (**immutable**, **open**, **borderless**, **decentralized**, **censorship-resistant**, etc.), its **scarcity**, and its **utility**.
 
@@ -41,13 +41,13 @@ Mankind evaluates every invention based on its utility for a particular purpose.
 
 > ***Bitcoin is used by drug dealers, money launderers and ransomware attackers; therefore it is bad.***
 
-**Rebuttal**
+**Answer**
 ```
 Independent reports suggest that the illicit use of Bitcoin is not higher than in the traditional banking system. Like any useful technology Bitcoin can be utilized to do good or harm.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   It is unlogical to say that Bitcoin is only used for criminal activities while at the same time denying its usability as money for all of us.
 
@@ -72,13 +72,13 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
 
 > ***Governments will not allow a competing currency which they cannot control.***
 
-**Rebuttal**
+**Answer**
 ```
 The decentralized nature of Bitcoin makes it impossible even for governments to eliminate it completely. By trying, companies in these countries could lose the ability to compete in a financial sector completely reshaped by cryptocurrencies.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   More and more influential individuals and companies <sup id="shut-down-link-to-footnote1">[1](#shut-down-footnote1)</sup> are invested and believe in the cryptocurrency. El Salvador was the first country to declare Bitcoin as legal tender <sup id="shut-down-link-to-footnote2">[2](#shut-down-footnote2)</sup>. This rapidly evolving trend makes it increasingly difficult to prevent the further propagation without provoking counter-reactions.
 
@@ -94,13 +94,13 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 > ***Bitcoin is too volatile in order to be used as currency or store-of-value.***
 
-**Rebuttal**
+**Answer**
 ```
 Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. The volatility should decrease as it stores more value due to greater adoption and maturity.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   At this point in time, as Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value <sup id="volatile-link-to-footnote1">[1](#volatile-footnote1)</sup>, it makes sense to consider it as an emerging store of value.
 
@@ -118,7 +118,7 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 
 > ***Bitcoin mining uses ever increasing amounts of energy without anything in return.***
 
-**Rebuttal**
+**Answer**
 ```
 The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. Renewable energy sources perform remarkably well in this regard.
 
@@ -127,7 +127,7 @@ How much does mankind value a scarce, completely decentralized and censorship re
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   There is no denying that Bitcoin mining will always stand in competition with other energy users for electricity. Nonetheless there are regions in the world, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome.
 
@@ -148,13 +148,13 @@ How much does mankind value a scarce, completely decentralized and censorship re
 
 > ***Bitcoin is open-source and just one of thousands of cryptocurrencies. Thus, Bitcoin is not scarce and cannot be of any value.***
 
-**Rebuttal**
+**Answer**
 ```
 The Bitcoin network has proven to be working flawlessly since its inception in 2009. This and its unique monetary properties are leading to an ever increasing network effect, which makes it very hard for any competitor in the field of value store and medium of exchange to gain traction.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   Bitcoin can be compared to the protocol on which the internet runs - TCP/IP. It is a rather simple base layer, on which more advanced technologies can be built upon, e.g. HTTP for websites in case of TCP/IP or the Lightning network as a payment layer for Bitcoin. It is extremely unlikely to get worldwide consensus to change the internet protocol, which is used by billions of devices. The same is valid for the Bitcoin protocol.
 
@@ -168,13 +168,13 @@ The Bitcoin network has proven to be working flawlessly since its inception in 2
 
 > ***Like the tulip bulbs of 17th-century Holland, Bitcoin is a retail mania, that will vanish.***
 
-**Rebuttal**
+**Answer**
 ```
 Normally investment bubbles never come back after they burst. Bitcoin on the other hand had multiple of those cycles - with each bubble being larger than the previous one. This can be interpreted as natural adoption loops with more and more people getting curious and learn about the unique properties of Bitcoin during each bull run.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   The chances of Bitcoin to vanish is getting smaller with each new individual, company or state holding it. Bitcoin is showing characteristics of growth - both in price and acceptance metrics - similar to an increasingly dominant tech company or protocol.
 
@@ -189,13 +189,13 @@ Normally investment bubbles never come back after they burst. Bitcoin on the oth
 
 > ***The volatility, slow transaction time and high fees disqualify Bitcoin for everyday use as a payment method.***
 
-**Rebuttal**
+**Answer**
 ```
 The volatility should decrease as Bitcoin stores more value due to greater adoption and maturity. Slow transaction times and the resulting high transaction costs can be solved with the help of layers, which are built on top of the Bitcoin settlement layer. The most popular being the "Lightning Network" at the moment, which enables almost instantanious transactions for negligible fees.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   It is essential for the security of Bitcoin that **as many people as possible can store and update the Blockchain** - a database with all transactions ever made. In order to achieve that the Blockchain size should only grow modestly, which in turn leads to a limited amount of transactions per second and thus elevated transaction fees in times of high traffic. As of today there is no technical solution to increase transaction throughput without sacrificing decentralization and security.
 
@@ -218,13 +218,13 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
 > ***There is a lot of news about Bitcoin being hacked and millions of dollars taken. This cannot be a secure system.***
 
-**Rebuttal**
+**Answer**
 ```
 Bitcoin has been working flawlessly almost since its inception in 2009. What is getting hacked are crypto exchanges and other centralized entities. It is similar to stating that the US-Dollar is a bad currency because banks get robbed.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   Bitcoin is by far the most secure network system due to its decentralized nature and the countless specialized computers around the world, which ensure that the system cannot be tampered with.
 
@@ -240,13 +240,13 @@ Bitcoin has been working flawlessly almost since its inception in 2009. What is 
 
 > ***Once people stop pouring new money into Bitcoin it will quickly collapse.***
 
-**Rebuttal**
+**Answer**
 ```
 Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money from old ones, there was no premining of coins and it does not have a leadership team. Bitcoin grew very organically since its creation and the market is pricing the asset, as it sees fit.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   How is a *Ponzi Scheme* actually defined? And does Bitcoin tick the boxes? See below:
 
@@ -265,13 +265,13 @@ Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money 
 
 > ***Once a powerful enough quantum computer is available Bitcoin is dead.***
 
-**Rebuttal**
+**Answer**
 ```
 This might be a danger once quantum computers with enough processing power are available (possibly from 2035-2050). Work on post-quantum encryption standards is ongoing and would get implemented into the Bitcoin protocol, once the need arises.
 ```
 <details>
 
-  <summary>Detailed rebuttal</summary>
+  <summary>Detailed Answer</summary>
 
   Without quantum-resistant encyryption standards there are 3 possible attack vectors for quantum computers:
   * **Breaking the hashing algorithm of Bitcoin (SHA-256)**
@@ -296,14 +296,53 @@ This might be a danger once quantum computers with enough processing power are a
 
 ## Bitcoin is controlled by China
 
+> ***Most of the Bitcoin mining happens in China. The mining hardware is manufactured there as well. Thus China can take control over Bitcoin anytime!***
+
+**Answer**
+```
+The potential to do damage by possessing the majority of hashing power is very limited: A double spending of the miner's own funds would be possible by investing massive amounts of energy and money before the Bitcoin protocol was changed to exclude the bad actor and rendering his effort futile.
+
+This very theoretical threat is further mitigated by the trend toward increasingly global distribution of hash power.
+```
+<details>
+
+  <summary>Detailed Answer</summary>
+
+  So called 51% attacks, where one entity has more than half of the hashing power, are very expensive to pull off, require an enormous amount of coordination and deliver very little benefit for the attacker.
+  
+  **This is what *cannot* be done with a 51% attack:**
+
+  * You can't steal the people's money
+  * You can't change the consensus rules
+  * You can't make invalid transaction become valid
+
+
+  **This is what *can* be done with a 51% attack:**
+
+  * Double spending of the attackers Bitcoin
+
+    Very expensive attack that could be fended off with a code change. It is certainly safer to just use your hashpower to profit from securing the network rather than attacking it.
+
+  * Mine empty blocks and render the network useless
+
+    Has to be upheld for a long time to prevent the intended use of Bitcoin. This attack costs massive amounts of money and energy. If the attacker does not stop on its own a code change could be implemented to render the attackers hardware worthless.
+
+  Further watching:
+
+  [![IMAGE ALT TEXT](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
+
+  Further reading: [Jameson Lopp - Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
+
+</details>
+
 ***
 
 # Contribute
 
-You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Rebuttal make sure to copy a previous C&R in order to have consistent formatting.
+You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Answer make sure to copy a previous C&A in order to have consistent formatting.
 
 ## Donate
 
-The only cost incurred for this site is the annual payment for the domain name ($12/year). If you feel like helping me on this - thanks very much in advance! With the link below you can donate via Lightning or On-Chain.
+The only cost incurred for this site is the annual payment for the domain name ($12). If you feel like helping me on this - thanks very much in advance! With the link below you can donate via Lightning or On-Chain.
 
 <div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donate" ></div>

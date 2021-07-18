@@ -1,6 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "BitcoinMythBusters",
+    "short_name": "BMB",
+    "description": "Copy & Paste answers to common critiques about Bitcoin",
+    "start_url": ".",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
     "icons": [
         {
             "src": "/_images/android-chrome-192x192.png",
@@ -12,8 +17,5 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    ]
 }
