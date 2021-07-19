@@ -339,7 +339,7 @@ This very theoretical threat is further mitigated by the trend toward increasing
 
 # Contribute
 
-You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Answer make sure to copy a previous C&A in order to have consistent formatting.
+You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Answer make sure to copy a previous C&A in order to have consistent formatting. *Auto-merge* is enabled, so all your changes should be visible in the document right away, but I reserve the right to reverse changes that I find unhelpful.
 
 ## Donate
 
