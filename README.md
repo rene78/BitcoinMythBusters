@@ -25,7 +25,7 @@ Mankind evaluates every invention based on its utility for a particular purpose.
 
   <summary>Detailed Answer</summary>
 
-  For supporters, Bitcoin's intrinsic value lies in the fact that it is an **uncorrelated asset**, its intangible properties (**immutable**, **open**, **borderless**, **decentralized**, **censorship-resistant**, etc.), its **scarcity**, and its **utility**.
+  For proponents, Bitcoin's intrinsic value lies in the fact that it is a **scarce**, **uncorrelated asset** with unique intangible properties (**immutable**, **open**, **borderless**, **decentralized**, **censorship resistant**, etc.).
 
   For the first time in history, anyone in the world with an internet connection can function as **their very own bank** while participating in the economy with **full control of their wealth**.
 
@@ -60,7 +60,7 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
   style C fill:#42B983
   ```
 
-  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Micheal Morell concluded in his research that **only about 1%** of all Bitcoin transactions can be **linked to illegal actions**. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
+  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Michael Morell concluded in his research that **only about 1%** of all Bitcoin transactions can be **linked to illegal actions**. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
 
   Further reading: [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
 
@@ -96,7 +96,7 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 **Answer**
 ```
-Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in the price discovery phase for many years to come. The volatility should decrease as it stores more value due to greater adoption and maturity.
+Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in its price discovery phase for many years to come. The volatility should decrease as it stores more value due to greater adoption and maturity.
 ```
 <details>
 
@@ -120,7 +120,7 @@ Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will 
 
 **Answer**
 ```
-The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. Renewable energy sources perform remarkably well in this regard.
+The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. It is becoming increasingly apparent that electricity from renewable energy sources can be much more competitively priced compared to conventional energy sources.
 
 The big question, however, is another:
 How much does mankind value a scarce, completely decentralized and censorship resistant monetary system that is open for everyone - regardless of race, personal wealth, or the degree of government incompetency/malignancy?
@@ -129,7 +129,7 @@ How much does mankind value a scarce, completely decentralized and censorship re
 
   <summary>Detailed Answer</summary>
 
-  There is no denying that Bitcoin mining will always stand in competition with other energy users for electricity. Nonetheless there are regions in the world, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome.
+  There is no denying that Bitcoin mining will always stand in competition with other energy consumers for electricity. Nonetheless there are regions in the world, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome. Bitcoin can be considered a **power grid nomad**.
 
   The reward halving, which happens every 4 years has an important impact on the energy usage:
   * Scenario 1: The price of Bitcoin continues to appreciate substantially
@@ -137,7 +137,7 @@ How much does mankind value a scarce, completely decentralized and censorship re
     The amount of energy needed will rise much slower than the Bitcoin price and finally reach a plateau.
   * Scenario 2: The price of Bitcoin appreciates only slightly
 
-    Less energy is needed to mine Bitcoin due to lower competition in mining.
+    Less energy is needed to mine Bitcoin due to stagnating competition in mining.
 
 
   Further reading: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
@@ -150,13 +150,13 @@ How much does mankind value a scarce, completely decentralized and censorship re
 
 **Answer**
 ```
-The Bitcoin network has proven to be working flawlessly since its inception in 2009. This and its unique monetary properties are leading to an ever increasing network effect, which makes it very hard for any competitor in the field of value store and medium of exchange to gain traction.
+The Bitcoin network has proven to be working flawlessly since its inception in 2009. This reliability, its unique monetary properties and a highly secured network are leading to an ever increasing network effect, which makes it very hard for any competitor in the fields "store of value" and "medium of exchange" to gain traction.
 ```
 <details>
 
   <summary>Detailed Answer</summary>
 
-  Bitcoin can be compared to the protocol on which the internet runs - TCP/IP. It is a rather simple base layer, on which more advanced technologies can be built upon, e.g. HTTP for websites in case of TCP/IP or the Lightning network as a payment layer for Bitcoin. It is extremely unlikely to get worldwide consensus to change the internet protocol, which is used by billions of devices. The same is valid for the Bitcoin protocol.
+  Bitcoin can be compared to the protocol on which the internet runs - TCP/IP. Both are rather simple base layers, on which more advanced technologies can be built upon, e.g. HTTP for websites in case of TCP/IP or the Lightning network as a payment layer for Bitcoin. It is extremely unlikely to get worldwide consensus to change the internet protocol, which is used by billions of devices. The same is valid for the Bitcoin protocol.
 
   All hard forks of Bitcoin (BCH, BSV and others) have not gained any traction and are constantly losing out on all relevant metrics, e.g. hashrate, market cap or node count. 
 
@@ -197,7 +197,7 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
   <summary>Detailed Answer</summary>
 
-  It is essential for the security of Bitcoin that **as many people as possible can store and update the Blockchain** - a database with all transactions ever made. In order to achieve that the Blockchain size should only grow modestly, which in turn leads to a limited amount of transactions per second and thus elevated transaction fees in times of high traffic. As of today there is no technical solution to increase transaction throughput without sacrificing decentralization and security.
+  It is **essential for the security of Bitcoin that as many people as possible can store and update the Blockchain** - a database with all transactions ever made. In order to achieve that the Blockchain size should only grow modestly, which in turn leads to a limited amount of transactions per second and thus elevated transaction fees in times of high traffic. As of today there is no technical solution to increase transaction throughput without sacrificing decentralization and security.
 
   ```mermaid
   flowchart LR
@@ -210,7 +210,7 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
   Further watching:
 
-  [![IMAGE ALT TEXT](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
+  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
 
 </details>
 
@@ -232,7 +232,7 @@ Bitcoin has been working flawlessly almost since its inception in 2009. What is 
 
   > "Not your Keys, not your Coins!" - Andreas M. Antonopoulos
 
-  [![IMAGE ALT TEXT](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
+  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
 
 </details>
 
@@ -288,7 +288,7 @@ This might be a danger once quantum computers with enough processing power are a
 
   Further watching:
 
-  [![IMAGE ALT TEXT](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
+  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
 
   Further reading: [Forbes - Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/)
 
@@ -300,7 +300,7 @@ This might be a danger once quantum computers with enough processing power are a
 
 **Answer**
 ```
-The potential to do damage by possessing the majority of hashing power is very limited: A double spending of the miner's own funds would be possible by investing massive amounts of energy and money before the Bitcoin protocol was changed to exclude the bad actor and rendering his effort futile.
+The potential to do damage by possessing the majority of mining power is very limited: A double spending of the miner's own funds would be possible by investing massive amounts of energy and money before the Bitcoin protocol was changed to exclude the bad actor and rendering his effort futile.
 
 This very theoretical threat is further mitigated by the trend toward increasingly global distribution of hash power.
 ```
@@ -329,7 +329,7 @@ This very theoretical threat is further mitigated by the trend toward increasing
 
   Further watching:
 
-  [![IMAGE ALT TEXT](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
+  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
 
   Further reading: [Jameson Lopp - Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
 
