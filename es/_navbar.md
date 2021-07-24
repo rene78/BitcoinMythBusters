@@ -1,6 +1,6 @@
-- :uk: English ▾
+- :es: Español ▾
   - [:de: Deutsch](/de/)
-  - [:es: Español](/es/)
+  - [:uk: English](/)
   - [:fr: Français](/fr/)
   - [:it: Italiano](/it/)
   - [:jp: 日本](/ja/)
