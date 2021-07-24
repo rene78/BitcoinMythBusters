@@ -1,6 +1,6 @@
 <div align="center">
   <h1>BitcoinMythBusters</h1>
-  <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
+  <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
 </div>
 
 > **Clarification des idées fausses les plus courantes concernant le bitcoin.**
