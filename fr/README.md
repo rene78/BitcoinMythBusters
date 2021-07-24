@@ -339,7 +339,7 @@ Cette menace très théorique est encore atténuée par la tendance à une distr
 
 # Contribuer
 
-Vous pouvez ajouter ou modifier des questions et des réponses en cliquant sur le bouton *Editer sur GitHub* en haut de la page. Si vous ajoutez une nouvelle critique et réponse, assurez-vous de copier une critique et réponse précédente afin d'avoir un formatage cohérent. La fonction de *fusion automatique* est activée, de sorte que toutes vos modifications devraient être visibles dans le document immédiatement, mais je me réserve le droit d'annuler les modifications que je juge inutiles.
+Vous pouvez ajouter ou modifier des questions et des réponses en cliquant sur le bouton *Edit on GitHub* en haut de la page. Si vous ajoutez une nouvelle critique et réponse, assurez-vous de copier une critique et réponse précédente afin d'avoir un formatage cohérent. La fonction de *Auto-merge* est activée, de sorte que toutes vos modifications devraient être visibles dans le document immédiatement, mais je me réserve le droit d'annuler les modifications que je juge inutiles.
 
 ## Faire un don
 

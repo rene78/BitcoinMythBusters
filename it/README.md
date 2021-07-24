@@ -339,10 +339,10 @@ Questa minaccia molto teorica è ulteriormente mitigata dalla tendenza verso una
 
 # Contribuire
 
-Puoi aggiungere o modificare domande e risposte cliccando il pulsante *Modifica su GitHub* in cima alla pagina. Se aggiungi una nuova Critique & Answer assicurati di copiare una C&A precedente per avere una formattazione coerente. L'opzione *Auto-merge* è abilitata, quindi tutte le tue modifiche dovrebbero essere visibili subito nel documento, ma mi riservo il diritto di annullare le modifiche che ritengo non utili.
+Puoi aggiungere o modificare domande e risposte cliccando il pulsante *Edit on GitHub* in cima alla pagina. Se aggiungi una nuova Critique & Answer assicurati di copiare una C&A precedente per avere una formattazione coerente. L'opzione *Auto-merge* è abilitata, quindi tutte le tue modifiche dovrebbero essere visibili subito nel documento, ma mi riservo il diritto di annullare le modifiche che ritengo non utili.
 
 ## Donare
 
-L'unico costo sostenuto per questo sito è il pagamento annuale per il nome di dominio (12€). Se hai voglia di aiutarmi in questo - grazie mille in anticipo! Con il link qui sotto puoi donare via Lightning o On-Chain.
+L'unico costo sostenuto per questo sito è il pagamento annuale per il nome di dominio (10€). Se hai voglia di aiutarmi in questo - grazie mille in anticipo! Con il link qui sotto puoi donare via Lightning o On-Chain.
 
 <div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donare" ></div>

@@ -337,7 +337,7 @@ Esta amenaza tan teórica se ve mitigada por la tendencia a una distribución ca
 
 # Contribuir
 
-Puedes añadir o editar preguntas y respuestas haciendo clic en el botón *Editar en GitHub* en la parte superior de la página. Si añades una nueva Crítica y Respuesta asegúrate de copiar una Crítica y Respuesta anterior para tener un formato consistente. *La fusión automática* está activada, por lo que todos tus cambios deberían ser visibles en el documento de inmediato, pero me reservo el derecho de revertir los cambios que considere poco útiles.
+Puedes añadir o editar preguntas y respuestas haciendo clic en el botón *Edit on GitHub* en la parte superior de la página. Si añades una nueva Crítica y Respuesta asegúrate de copiar una Crítica y Respuesta anterior para tener un formato consistente. *Auto-merge* está activada, por lo que todos tus cambios deberían ser visibles en el documento de inmediato, pero me reservo el derecho de revertir los cambios que considere poco útiles.
 
 ## Donar
 
