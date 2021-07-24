@@ -3,7 +3,7 @@
   <img width="200" src=".\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
 </div>
 
-> **Clarification of common misconceptions regarding Bitcoin.**
+***
 
 # What it is
 

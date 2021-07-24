@@ -345,4 +345,4 @@ Du kannst Fragen und Antworten hinzufügen oder bearbeiten, indem Du auf die Sch
 
 Die einzigen Kosten, die für diese Seite anfallen, sind die jährliche Zahlung für den Domainnamen (10€). Wenn Du Lust hast, mir dabei zu helfen - herzlichen Dank im Voraus! Mit dem untenstehenden Link kannst Du per Lightning oder On-Chain spenden.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donate" ></div>
+<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Spenden" ></div>

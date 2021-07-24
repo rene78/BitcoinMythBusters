@@ -3,7 +3,7 @@
   <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
 </div>
 
-> **澄清关于比特币的常见误解。**
+***
 
 # 宗旨
 
@@ -37,9 +37,9 @@
 
 </details>
 
-## Bitcoin Is Only Used By Criminals
+## 比特币只被犯罪分子使用
 
-> ***Bitcoin is used by drug dealers, money launderers and ransomware attackers; therefore it is bad.***
+> ***比特币被毒贩子、洗钱者和勒索软件攻击者使用，因此它是坏的。***
 
 **回答**
 ```
@@ -208,7 +208,7 @@ The volatility should decrease as Bitcoin stores more value due to greater adopt
 
   The most promising solution to use Bitcoin even for small purchases while maintaining its unique monetary properties is the second-layer-solution ***Bitcoin Lightning***.
 
-  Further watching:
+  Further watching (English):
 
   [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
 
@@ -286,7 +286,7 @@ This might be a danger once quantum computers with enough processing power are a
 
   This would possibly only be a temporary threat until other miners switch to quantum mining as well.
 
-  Further watching:
+  Further watching (English):
 
   [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
 
@@ -327,7 +327,7 @@ This very theoretical threat is further mitigated by the trend toward increasing
 
     Has to be upheld for a long time to prevent the intended use of Bitcoin. This attack costs massive amounts of money and energy. If the attacker does not stop on its own a code change could be implemented to render the attackers hardware worthless.
 
-  Further watching:
+  Further watching (English):
 
   [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
 
