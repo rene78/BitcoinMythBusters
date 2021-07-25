@@ -7,7 +7,7 @@
 
 # Scopo
 
-*BitcoinMythBusters* ti aiuta a dare **risposte convincenti a critiche giustificate o infondate su Bitcoin**. Clicca sulla risposta per copiare il testo per utilizzarlo in qualsiasi social network, forum o applicazione di messaggistica che ti piace. **Non c'è bisogno di perdere tempo affrontando manualmente le stesse preoccupazioni più e più volte.
+*BitcoinMythBusters* ti aiuta a dare **risposte convincenti a critiche giustificate o infondate su Bitcoin**. Clicca sulla risposta per copiare il testo per utilizzarlo in qualsiasi social network, forum o applicazione di messaggistica che ti piace. **Non c'è bisogno di perdere tempo affrontando manualmente le stesse preoccupazioni più e più volte.**
 
 ***
 
