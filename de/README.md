@@ -267,7 +267,7 @@ Bitcoin zeigt keine Anzeichen eines Schneeballsystems: Neue Investoren werden ni
 
 **Antwort**
 ```
-Dies könnte eine Gefahr darstellen, sobald Quantencomputer mit genügend Rechenleistung verfügbar sind (möglicherweise ab 2035-2050). Die Arbeit an Post-Quantum-Verschlüsselungsstandards ist jedoch im Gange und würde in das Bitcoin-Protokoll implementiert werden, sobald der Bedarf besteht.
+Dies könnte eine Gefahr darstellen, sobald Quantencomputer mit genügend Rechenleistung verfügbar sind (möglicherweise ab 2035-2050). Die Arbeit an Post-Quantum-Verschlüsselungsstandards ist jedoch im Gange. Diese würden in das Bitcoin-Protokoll implementiert werden, sobald der Bedarf besteht.
 ```
 <details>
 
