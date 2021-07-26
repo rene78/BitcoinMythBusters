@@ -43,7 +43,7 @@ Die Menschheit bewertet jede Erfindung basierend auf ihrem Nutzen für einen bes
 
 **Antwort**
 ```
-Unabhängige Berichte legen nahe, dass die illegale Nutzung von Bitcoin nicht höher ist als im traditionellen Bankensystem. Wie jede nützliche Technologie kann Bitcoin genutzt werden, um Gutes zu tun oder Schaden anzurichten.
+Unabhängige Studien legen nahe, dass die illegale Nutzung von Bitcoin nicht höher ist als im traditionellen Bankensystem. Wie jede nützliche Technologie kann Bitcoin genutzt werden, um Gutes zu tun oder Schaden anzurichten.
 ```
 <details>
 
