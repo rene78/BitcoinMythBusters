@@ -1,5 +1,5 @@
 //Available languages (except the default English).
-const languages = ["de"];
+const languages = ["de", "es", "fr", "it", "ja", "pt", "ru", "zh"];
 
 //Initialize mermaid - graphs in markdown
 mermaid.initialize({ startOnLoad: false });
@@ -14,15 +14,36 @@ window.$docsify = {
     maxAge: 86400000, // Expiration time, the default one day
     paths: [
       '/de/',
+      '/es/',
+      '/fr/',
+      '/it/',
+      '/ja/',
+      '/pt/',
+      '/ru/',
+      '/zh/',
       '/'            // => /README.md
     ],
     // Search Localization
     placeholder: {
       '/de/': 'Suchen...',
+      '/es/': 'Buscar...',
+      '/fr/': 'Rechercher...',
+      '/it/': 'Cerca...',
+      '/ja/': '検索...',
+      '/pt/': 'Buscar...',
+      '/ru/': 'Поиск...',
+      '/zh/': '搜索...',
       '/': 'Search...'
     },
     noData: {
       '/de/': 'Keine Resultate',
+      '/es/': 'No hay resultados',
+      '/fr/': 'Aucun résultat',
+      '/it/': 'Nessun risultato',
+      '/ja/': '結果なし',
+      '/pt/': 'Sem resultados',
+      '/ru/': 'Нет результатов',
+      '/zh/': '没有结果',
       '/': 'No Results'
     }
   },
@@ -44,23 +65,36 @@ window.$docsify = {
   copyCode: {
     // copyCode Localization
     buttonText: {
-      '/zh/': '点击复制',
-      '/ru/': 'Скопировать в буфер обмена',
       '/de/': 'Klicken Sie zum Kopieren',
       '/es/': 'Haga clic para copiar',
+      '/fr/': 'Cliquez pour copier',
+      '/it/': 'Clicca per copiare',
+      '/ja/': 'クリックしてコピー',
+      '/pt/': 'Clique para copiar',
+      '/ru/': 'Скопировать в буфер обмена',
+      '/zh/': '点击复制',
       '/': 'Copy to clipboard'
     },
     errorText: {
-      '/zh/': '错误',
-      '/ru/': 'ошибка',
       '/de/': 'Fehler',
+      '/es/': 'Error',
+      '/fr/': 'Erreur',
+      '/it/': 'Errore',
+      '/ja/': 'エラー',
+      '/pt/': 'Erro',
+      '/ru/': 'ошибка',
+      '/zh/': '错误',
       '/': 'Error'
     },
     successText: {
-      '/zh/': '复制',
-      '/ru/': 'Скопировано',
       '/de/': 'Kopiert',
       '/es/': 'Copiado',
+      '/fr/': 'Copié',
+      '/it/': 'Copiato',
+      '/ja/': 'からコピーしました。',
+      '/pt/': 'Copiado',
+      '/ru/': 'Скопировано',
+      '/zh/': '复制',
       '/': 'Copied'
     }
   }
