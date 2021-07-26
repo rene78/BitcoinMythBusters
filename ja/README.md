@@ -43,46 +43,46 @@
 
 **回答**
 ```
-Independent reports suggest that the illicit use of Bitcoin is not higher than in the traditional banking system. Like any useful technology Bitcoin can be utilized to do good or harm.
+独立系の報告書によると、ビットコインの不正使用は、従来の銀行システムに比べて高くはないとのことです。他の有用な技術と同様に、ビットコインも善にも悪にも利用することができます。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  It is unlogical to say that Bitcoin is only used for criminal activities while at the same time denying its usability as money for all of us.
+  ビットコインが犯罪行為にしか使われていないと言いながら、同時に私たち全員にとってのお金としての有用性を否定するのは論理的ではありません。
 
   ```mermaid
   graph TD
-  A[Is Bitcoin functional?] --> |No| B[Bitcoin is not functional <br/>for criminals nor anyone else]
-  A --> |Yes| C[Bitcoin is functional for everyone,<br/>including criminals]
+  A["ビットコインは機能的ですか？"] --> |"いいえ"| B["ビットコインは犯罪者にも誰にも機能しない"]
+  A --> |"はい。"| C["ビットコインは、犯罪者を含むすべての人にとって機能的です。"]
 
   style B fill:#ff6666
   style C fill:#42B983
   ```
 
-  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Michael Morell concluded in his research that **only about 1%** of all Bitcoin transactions can be **linked to illegal actions**. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
+  例えば、元CIAの情報アナリストであるマイケル・モレル氏の研究では、ビットコイン取引全体の**約1%**しか**違法行為に結びつかない**と結論づけています。<sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>。
 
-  Further reading (english): [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
+  さらに読む（英語）。: [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
 
   <b id="criminals-footnote1">1</b> [Michael Morell et al. - An Analysis of Bitcoin’s Use in Illicit Finance](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf) [↩](#criminals-link-to-footnote1)
 
 </details>
 
-## The Government Will Shut Bitcoin Down
+## 政府がビットコインをシャットダウンする
 
-> ***Governments will not allow a competing currency which they cannot control.***
+> ***政府は、自分たちがコントロールできない競合通貨を認めません。***
 
 **回答**
 ```
-The decentralized nature of Bitcoin makes it impossible even for governments to eliminate it completely. By trying, companies in these countries could lose the ability to compete in a financial sector completely reshaped by cryptocurrencies.
+ビットコインは非中央集権的な性質を持っているため、各国政府がビットコインを完全に排除することは不可能です。排除しようとすることで、これらの国の企業は、暗号通貨によって完全に再構築された金融分野で競争する能力を失う可能性があります。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  More and more influential individuals and companies <sup id="shut-down-link-to-footnote1">[1](#shut-down-footnote1)</sup> are invested and believe in the cryptocurrency. El Salvador was the first country to declare Bitcoin as legal tender <sup id="shut-down-link-to-footnote2">[2](#shut-down-footnote2)</sup>. This rapidly evolving trend makes it increasingly difficult to prevent the further propagation without provoking counter-reactions.
+  より多くの影響力のある個人や企業<sup id="shut-down-link-to-footnote1">[1](#shut-down-footnote1)</sup>が、この暗号通貨に投資し、信じています。エルサルバドルは、ビットコインを法定通貨として宣言した最初の国です。<sup id="shut-down-link-to-footnote2">[2](#shut-down-footnote2)</sup>。このように急速に進化するトレンドは、反発を招くことなくさらなる伝播を防ぐことがますます難しくなっています。
 
-  Further reading (english): [Quillette - Can Governments Stop Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
+  さらに読む（英語）。: [Quillette - Can Governments Stop Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
 
   <b id="shut-down-footnote1">1</b> [CNBC - BlackRock’s Rick Rieder says the world’s largest asset manager has ‘started to dabble’ in bitcoin](https://www.cnbc.com/2021/02/17/blackrock-has-started-to-dabble-in-bitcoin-says-rick-rieder.html) [↩](#shut-down-link-to-footnote1)
 
@@ -90,259 +90,259 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 </details>
 
-## Bitcoin Is Too Volatile
+## ビットコインはボラティリティーが高すぎる
 
-> ***Bitcoin is too volatile in order to be used as currency or store-of-value.***
+> ***ビットコインは、通貨や価値の貯蔵庫として使用するには、あまりにも揮発性が高い。***
 
 **回答**
 ```
-Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in its price discovery phase for many years to come. The volatility should decrease as it stores more value due to greater adoption and maturity.
+ビットコインは歴史が浅く、相関性のない資産で、価値が急激に上昇しており、今後何年にもわたって価格発見の段階にあると思われます。普及が進んで成熟し、より多くの価値を蓄えるようになると、ボラティリティは減少するはずです。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  At this point in time, as Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value <sup id="volatile-link-to-footnote1">[1](#volatile-footnote1)</sup>, it makes sense to consider it as an emerging store of value.
+  現時点では、ビットコインはすでにかなりの時価総額を達成していますが、世界的な価値の貯蔵庫<sup id="volatile-link-to-footnote1">[1](#volatile-footnote1)</sup>よりも数桁低いため、新興の価値の貯蔵庫と考えることは理にかなっています。
 
-  If Bitcoin ever reaches the status of a world reserve currency it can be assumed that the price will develop in tandem with the world economy.
+  もしビットコインが世界の基軸通貨になるようなことがあれば、世界経済と連動して価格が発展していくことが想定されます。
 
-  But even nowadays, when push comes to shove, Bitcoin's "volatility" is barely noticeable when compared to a hyperinflationary currency.
+  しかし、現在でも、いざとなれば、ビットコインの「変動性」は、ハイパーインフレの通貨と比べてもほとんど気にならない。
 
   <b id="volatile-footnote1">1</b> [River Financial - How Much of the World's Money Is in Bitcoin?](https://river.com/learn/how-much-worlds-money-in-bitcoin/) [↩](#volatile-link-to-footnote1)
 
-  Further reading (english): [Unchained Capital - Bitcoin Is Not Too Volatile](https://unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
+  さらに読む（英語）。: [Unchained Capital - Bitcoin Is Not Too Volatile](https://unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
 
 </details>
 
-## Bitcoin Wastes Energy
+## ビットコインはエネルギーを浪費する
 
-> ***Bitcoin mining uses ever increasing amounts of energy without anything in return.***
+> ***ビットコインの採掘には、見返りもなく、どんどんエネルギーが使われます。***
 
 **回答**
 ```
-The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. It is becoming increasingly apparent that electricity from renewable energy sources can be much more competitively priced compared to conventional energy sources.
+エネルギーの消費は、ビットコインのユニークな特徴である不変性、開放性、ボーダレス性、分散性、検閲への抵抗性、希少性を実現し、維持するための必須条件です。ビットコインの採掘者は、エネルギーコストが特に低い場所に機器を設置する傾向があります。再生可能エネルギーによる電力は、従来のエネルギーに比べてはるかに競争力のある価格で提供できることが明らかになってきています。
 
-The big question, however, is another:
-How much does mankind value a scarce, completely decentralized and censorship resistant monetary system that is open for everyone - regardless of race, personal wealth, or the degree of government incompetency/malignancy?
+しかし、大きな問題は別のところにあります。
+希少性があり、完全に分散化され、検閲のない通貨システムは、人種や個人の資産、政府の無能さや悪意の度合いにかかわらず、誰にでも開かれたものであり、人類にとってどれほどの価値があるのだろうか？
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  There is no denying that Bitcoin mining will always stand in competition with other energy consumers for electricity. Nonetheless there are regions in the world, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome. Bitcoin can be considered a **power grid nomad**.
+  ビットコインのマイニングは、常に他のエネルギー消費者との電力競争にさらされていることは否定できません。しかし、世界には、アイスランド（地熱発電）、四川省／中国、シベリア／ロシア（いずれも水力発電）のように、使われない余剰エネルギーが生産されている地域があります。ここでは、ビットコイン・マイナーのようなエネルギーのグローバルな買い手は非常に歓迎されます。ビットコインは**パワーグリッドノマド**と考えることができます。
 
-  The reward halving, which happens every 4 years has an important impact on the energy usage:
-  * Scenario 1: The price of Bitcoin continues to appreciate substantially
+  4年ごとに起こる報酬の半減は、エネルギー使用量に重要な影響を与えます。
+  * シナリオ1：ビットコインの価格が大幅に上昇し続ける。
 
-    The amount of energy needed will rise much slower than the Bitcoin price and finally reach a plateau.
-  * Scenario 2: The price of Bitcoin appreciates only slightly
+    必要なエネルギー量は、ビットコインの価格よりもはるかに遅く上昇し、最終的にはプラトーに達します。
+  * シナリオ 2: ビットコインの価格がわずかに上昇した場合
 
-    Less energy is needed to mine Bitcoin due to stagnating competition in mining.
+    マイニングの競争が停滞するため、ビットコインのマイニングに必要なエネルギー量が減少する。
 
 
-  Further reading (english): [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+  さらに読む（英語）。: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
 
 </details>
 
-## Bitcoin Can Be Cloned / Will Be Replaced By A Competitor
+## ビットコインはクローン化される／競合他社に取って代わられる
 
-> ***Bitcoin is open-source and just one of thousands of cryptocurrencies. Thus, Bitcoin is not scarce and cannot be of any value.***
+> ***ビットコインはオープンソースであり、何千もの暗号通貨の一つに過ぎません。したがって、ビットコインには希少性がなく、価値があるとは言えません。***
 
 **回答**
 ```
-The Bitcoin network has proven to be working flawlessly since its inception in 2009. This reliability, its unique monetary properties and a highly secured network are leading to an ever increasing network effect, which makes it very hard for any competitor in the fields "store of value" and "medium of exchange" to gain traction.
+ビットコインのネットワークは、2009年の開始以来、完璧に機能していることが証明されています。この信頼性、独自の通貨特性、高度に保護されたネットワークは、ネットワーク効果をますます高めており、「価値の貯蔵庫」や「交換手段」の分野では、競合他社の追随を許さない状況となっています。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  Bitcoin can be compared to the protocol on which the internet runs - TCP/IP. Both are rather simple base layers, on which more advanced technologies can be built upon, e.g. HTTP for websites in case of TCP/IP or the Lightning network as a payment layer for Bitcoin. It is extremely unlikely to get worldwide consensus to change the internet protocol, which is used by billions of devices. The same is valid for the Bitcoin protocol.
+  ビットコインは、インターネットを動かすプロトコルであるTCP/IPと比較することができます。TCP/IPの場合はWebサイトのためのHTTP、ビットコインの場合は決済層としてのライトニングネットワークなど、どちらもシンプルなベースレイヤーであり、その上にさらに高度な技術を構築することができます。何十億もの機器に使われているインターネットのプロトコルを変更するために、世界的なコンセンサスを得ることは極めて困難です。同じことがビットコインのプロトコルにも言えます。
 
-  All hard forks of Bitcoin (BCH, BSV and others) have not gained any traction and are constantly losing out on all relevant metrics, e.g. hashrate, market cap or node count. 
+  ビットコインのハードフォーク（BCH、BSVなど）はいずれも支持を得られず、ハッシュレート、マーケットキャップ、ノード数など、関連するすべての指標で常に敗北しています。
 
-  Further reading (english): [Lyn Alden - Analyzing Bitcoin’s Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
+  さらに読む（英語）。: [Lyn Alden - Analyzing Bitcoin’s Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
 
 </details>
 
-## Bitcoin Is A Bubble
+## ビットコインはバブルである
 
-> ***Like the tulip bulbs of 17th-century Holland, Bitcoin is a retail mania, that will vanish.***
+> ***17世紀オランダのチューリップの球根のように、ビットコインは小売業のマニアであり、消滅するだろう。***
 
 **回答**
 ```
-Normally investment bubbles never come back after they burst. Bitcoin on the other hand had multiple of those cycles - with each bubble being larger than the previous one. This can be interpreted as natural adoption loops with more and more people getting curious and learn about the unique properties of Bitcoin during each bull run.
+通常、投資のバブルは崩壊すると二度と戻ってきません。一方、ビットコインはそのようなサイクルを何度も繰り返し、それぞれのバブルが前のバブルよりも大きくなっています。これは、強気の相場展開のたびに、ビットコインのユニークな特性に興味を持ち、学ぶ人が増えていくという自然な採用のループと解釈できます。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  The chances of Bitcoin to vanish is getting smaller with each new individual, company or state holding it. Bitcoin is showing characteristics of growth - both in price and acceptance metrics - similar to an increasingly dominant tech company or protocol.
+  ビットコインが消滅する可能性は、新しい個人、企業、国家が保有するたびに小さくなっています。ビットコインは、価格と受け入れ基準の両方において、支配力を増す技術企業やプロトコルに似た成長の特徴を示しています。
 
-  ![Diagram of BTC Market Cap from 2012-2021](../_images/BTC_Market_Cap.png)
-  *Logarithmic display of Bitcoin's increase in market capitalisation from 2012-2021 (Chart Source: Blockchain.com)*
+  ![2012年から2021年までのBTCの時価総額の推移図](../_images/BTC_Market_Cap.png)
+  *2012年から2021年までのビットコインの時価総額増加の対数表示（図表出典：Blockchain.com）*
 
-  Further reading (english): [Satoshi Nakamoto Institute - How We Know Bitcoin Is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
+  さらに読む（英語）。: [Satoshi Nakamoto Institute - How We Know Bitcoin Is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
 
 </details>
 
-## Bitcoin Fails As A Currency / Cannot Scale
+## ビットコインの通貨としての失敗／スケールできない
 
-> ***The volatility, slow transaction time and high fees disqualify Bitcoin for everyday use as a payment method.***
+> ***ビットコインはボラティリティーが高く、取引に時間がかかり、手数料も高いため、決済手段として日常的に使用するには適していません。***
 
 **回答**
 ```
-The volatility should decrease as Bitcoin stores more value due to greater adoption and maturity. Slow transaction times and the resulting high transaction costs can be solved with the help of layers, which are built on top of the Bitcoin settlement layer. The most popular being the "Lightning Network" at the moment, which enables almost instantanious transactions for negligible fees.
+ビットコインの普及と成熟により、ビットコインがより多くの価値を蓄えるようになると、ボラティリティーは減少するはずです。取引時間の遅さとそれに伴う取引コストの高さは、ビットコインの決済層の上に構築されたレイヤーの助けを借りて解決することができます。現在最も注目されているのは「ライトニングネットワーク」で、わずかな手数料でほぼ即時の取引を可能にしています。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  It is **essential for the security of Bitcoin that as many people as possible can store and update the Blockchain** - a database with all transactions ever made. In order to achieve that the Blockchain size should only grow modestly, which in turn leads to a limited amount of transactions per second and thus elevated transaction fees in times of high traffic. As of today there is no technical solution to increase transaction throughput without sacrificing decentralization and security.
+  ビットコインの安全性を確保するためには、できるだけ多くの人がブロックチェーン（これまでに行われたすべての取引が記録されたデータベース）を保存・更新することが不可欠です。これを実現するためには、ブロックチェーンのサイズは適度にしか大きくならないようにしなければなりません。その結果、1秒あたりのトランザクションの量が制限され、トラフィックが多いときにはトランザクション手数料が高くなってしまいます。現在のところ、分散化とセキュリティを犠牲にすることなくトランザクションのスループットを向上させる技術的な解決策はありません。
 
   ```mermaid
   flowchart LR
-    Scalability o--o Decentralization & Security;
-    Decentralization o--o Security;
+    スケーラビリティ o--o 分権化 & セキュリティ;
+    分権化 o--o セキュリティ;
   ```
-  *The Blockchain Trilemma: You can only improve 2 at a time*
+  *ブロックチェーンのトリレンマ：一度に2つしか改善できない*
 
-  The most promising solution to use Bitcoin even for small purchases while maintaining its unique monetary properties is the second-layer-solution ***Bitcoin Lightning***.
+  ビットコインのユニークな通貨特性を維持したまま、少額の買い物でも利用できる最も有望なソリューションは、第2層のソリューションである***Bitcoin Lightning***です。
 
-  Further watching (English):
+  さらに見る（英語）。
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
+  [![Andreas M. Antonopoulos氏による解説ビデオ](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
 
 </details>
 
-## Bitcoin Gets Hacked
+## ビットコインがハッキングされる
 
-> ***There is a lot of news about Bitcoin being hacked and millions of dollars taken. This cannot be a secure system.***
+> ***ビットコインがハッキングされて何百万ドルも取られたというニュースが多いですね。これでは安全なシステムとは言えません。***
 
 **回答**
 ```
-Bitcoin has been working flawlessly almost since its inception in 2009. What is getting hacked are crypto exchanges and other centralized entities. It is similar to stating that the US-Dollar is a bad currency because banks get robbed.
+ビットコインは、2009年の設立以来、ほぼ完璧に機能しています。ハッキングされているのは、暗号化された取引所やその他の中央集権的な組織です。これは、銀行が強盗に遭うから米ドルは悪い通貨だと言うのと同じです。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  Bitcoin is by far the most secure network system due to its decentralized nature and the countless specialized computers around the world, which ensure that the system cannot be tampered with.
+  ビットコインは、その分散化された性質と、世界中にある無数の特殊なコンピュータによって、システムが改ざんされないことを保証しているため、最も安全なネットワークシステムです。
 
-  To take full advantage of the security one should make sure to self custody his/her coins.
+  この安全性を最大限に活用するためには、自分のコインを必ず自己管理する必要があります。
 
-  > "Not your Keys, not your Coins!" - Andreas M. Antonopoulos
+  > キーでもなくコインでもない！？ - Andreas M. Antonopoulos
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
+  [![Andreas M. Antonopoulos氏による解説ビデオ](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
 
 </details>
 
-## Bitcoin Is A Ponzi Scheme
+## ビットコインはねずみ講である
 
-> ***Once people stop pouring new money into Bitcoin it will quickly collapse.***
+> ***人々がビットコインに新たな資金を投入するのをやめれば、ビットコインはすぐに崩壊します。***
 
 **回答**
 ```
-Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money from old ones, there was no premining of coins and it does not have a leadership team. Bitcoin grew very organically since its creation and the market is pricing the asset, as it sees fit.
+ビットコインにはねずみ講の兆候はありません。新規の投資家が古い投資家からの資金で支払うことはなく、コインの事前採掘もなく、リーダーシップチームも存在しません。ビットコインは誕生以来、非常に有機的に成長しており、市場はこの資産を適切に評価しています。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  How is a *Ponzi Scheme* actually defined? And does Bitcoin tick the boxes? See below:
+  ポンジ・スキームとは実際にどのように定義されるのでしょうか？そして、ビットコインはその条件を満たしているのでしょうか？以下をご覧ください。
 
-  | Signs of a Ponzi scheme | How is it with Bitcoin?|
+  | ネズミ講の兆候 | ビットコインの場合はどうでしょうか？|
   | ------------------------|------------------------|
-  | Promised high investment returns | <span style="color:green">Satoshi (the creator) never promised any return</span> |
-  | Misleading or outright wrongful statements regarding business strategy | <span style="color:green">Bitcoin has been open-sourced from the very beginning</span> |
-  | "Extroverteted" leadership team | <span style="color:green">Bitcoin's creator is unknown. The rest of the dev community is highly decentralized</span>|
-  | Unregistered Investments and Unlicensed Sellers | <span style="color:red">Bitcoin (luckily) doesn't need a license</span>|
+  | 高い投資収益を約束 | <span style="color:green">サトシ（生みの親）はリターンを約束しなかった</span> |
+  | 事業戦略に関する誤解を招くような、あるいは明らかに間違った発言 | <span style="color:green">ビットコインは最初からオープンソースで作られている</span> |
+  | "外向的 "なリーダーシップチーム | <span style="color:green">ビットコインの生みの親は不明。他の開発者のコミュニティは高度に分散化されている</span>|
+  | 登録されていない投資とライセンスされていない販売者 | <span style="color:red">ビットコインは（幸運にも）ライセンスを必要としない</span>|
 
-  Further reading (english): [Lyn Alden - Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
+  さらに読む（英語）。: [Lyn Alden - Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 
 </details>
 
-## Bitcoin Can Be Killed By Quantum Computers
+## ビットコインは量子コンピューターに殺される
 
-> ***Once a powerful enough quantum computer is available Bitcoin is dead.***
+> ***十分に強力な量子コンピュータが利用できるようになれば、ビットコインは死ぬ。***
 
 **回答**
 ```
-This might be a danger once quantum computers with enough processing power are available (possibly from 2035-2050). Work on post-quantum encryption standards is ongoing and would get implemented into the Bitcoin protocol, once the need arises.
+これは、十分な処理能力を持つ量子コンピュータが利用可能になった後（おそらく2035年から2050年）、危険な状態になるかもしれません。ポスト量子暗号の標準化作業は現在進行中で、必要が生じればビットコインのプロトコルに実装されるでしょう。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  Without quantum-resistant encyryption standards there are 3 possible attack vectors for quantum computers:
-  * **Breaking the hashing algorithm of Bitcoin (SHA-256)**
+  量子耐性のある暗号化規格がなければ、量子コンピュータには3つの攻撃手段が考えられます。
+  * **ビットコインのハッシュ化アルゴリズム（SHA-256）の破壊**
 
-  At this point in time it is not clear whether quantum computers are able to crack this type of algorithm.
+  現時点では、量子コンピュータがこの種のアルゴリズムを解読できるかどうかは明らかではありません。
 
-  * **Breaking the public/private key algorithm (ECDSA - Elliptic Curves cryptography)**
+  * **公開鍵/秘密鍵アルゴリズムの解読（ECDSA - Elliptic Curves cryptography**
 
-  Reused Bitcoin addresses - i.e. addresses which published a signature - are at risk of getting cracked. If SHA-256 can be broken as well then all Bitcoin addresses are vulnerable.
+  再利用されているビットコインアドレス（署名を公開しているアドレス）は、クラックされる危険性があります。もし、SHA-256も破られるとしたら、すべてのビットコインアドレスが脆弱になります。
 
-  * **Use quantum computers to mine much more efficiently than with state-of-the-art hardware**
+  * **量子コンピュータを使って、最先端のハードウェアよりもはるかに効率的に採掘する**
 
-  This would possibly only be a temporary threat until other miners switch to quantum mining as well.
+  これは、他のマイナーが量子マイニングに切り替えるまでの一時的な脅威に過ぎないでしょう。
 
-  Further watching (English):
+  さらに見る（英語）。
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
+  [![Andreas M. Antonopoulos氏による解説ビデオ](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
 
-  Further reading (english): [Forbes - Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/)
+  さらに読む（英語）。: [Forbes - Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/)
 
 </details>
 
-## Bitcoin is controlled by China
+## ビットコインは中国に支配されている
 
-> ***Most of the Bitcoin mining happens in China. The mining hardware is manufactured there as well. Thus China can take control over Bitcoin anytime!***
+> ***ビットコインの採掘は、ほとんどが中国で行われています。マイニングハードウェアも中国で製造されています。したがって、中国はいつでもビットコインを支配することができます***
 
 **回答**
 ```
-The potential to do damage by possessing the majority of mining power is very limited: A double spending of the miner's own funds would be possible by investing massive amounts of energy and money before the Bitcoin protocol was changed to exclude the bad actor and rendering his effort futile.
+マイニングパワーの大半を保有することで損害を与える可能性は非常に限られています。ビットコインのプロトコルが変更されて悪者が排除され、その努力が無駄になる前に大量のエネルギーと資金を投入することで、採掘者自身の資金を二重に使うことが可能になります。
 
-This very theoretical threat is further mitigated by the trend toward increasingly global distribution of hash power.
+この非常に理論的な脅威は、ハッシュパワーをますますグローバルに分配する傾向にあるため、さらに緩和されています。
 ```
 <details>
 
   <summary>詳しい回答</summary>
 
-  So called 51% attacks, where one entity has more than half of the hashing power, are very expensive to pull off, require an enormous amount of coordination and deliver very little benefit for the attacker.
+  51%攻撃と呼ばれるものは、1つのエンティティがハッシュパワーの半分以上を持っているというもので、実行するには非常にコストがかかり、膨大な調整が必要で、攻撃者にはほとんどメリットがありません。
   
-  **This is what *cannot* be done with a 51% attack:**
+  **これが、51％の攻撃では*できない*ことです。**
 
-  * You can't steal the people's money
-  * You can't change the consensus rules
-  * You can't make invalid transaction become valid
+  * 人々のお金を盗んではいけない
+  * コンセンサスのルールを変えてはいけない
+  * 無効な取引を有効にすることはできない
 
 
-  **This is what *can* be done with a 51% attack:**
+  **これは、51％の攻撃で*できる*ことです。**
 
-  * Double spending of the attackers Bitcoin
+  * 攻撃者のビットコインの二重支出
 
-    Very expensive attack that could be fended off with a code change. It is certainly safer to just use your hashpower to profit from securing the network rather than attacking it.
+    非常に高価な攻撃だが、コードの変更で回避できるだろう。ネットワークを攻撃するのではなく、ネットワークを守ることで利益を得るためにハッシュパワーを使う方が確実に安全です。
 
-  * Mine empty blocks and render the network useless
+  * 空のブロックを採掘して、ネットワークを使えなくする。
 
-    Has to be upheld for a long time to prevent the intended use of Bitcoin. This attack costs massive amounts of money and energy. If the attacker does not stop on its own a code change could be implemented to render the attackers hardware worthless.
+    ビットコインの使用目的を阻止するためには、長期間にわたって支持されなければならない。この攻撃には莫大な費用とエネルギーがかかります。攻撃者が自力で停止しない場合は、コード変更を実施して攻撃者のハードウェアを無価値にすることができます。
 
-  Further watching (English):
+  さらに見る（英語）。
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
+  [![Andreas M. Antonopoulos氏による解説ビデオ](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
 
-  Further reading (english): [Jameson Lopp - Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
+  さらに読む（英語）。: [Jameson Lopp - Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
 
 </details>
 
 ***
 
-# Contribute
+# 貢献する
 
-You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Answer make sure to copy a previous C&A in order to have consistent formatting. *Auto-merge* is enabled, so all your changes should be visible in the document right away, but I reserve the right to reverse changes that I find unhelpful.
+質問や回答を追加・編集するには、ページ上部の*Edit on GitHub*ボタンをクリックします。新しい批評と回答を追加する場合は、フォーマットを統一するために、必ず以前のC&Aをコピーしてください。*Auto-merge*が有効になっているので、あなたの変更はすぐにドキュメントに反映されるはずですが、私は役に立たないと思われる変更を元に戻す権利を持っています。
 
-## Donate
+## 寄贈
 
-The only cost incurred for this site is the annual payment for the domain name ($12). If you feel like helping me on this - thanks very much in advance! With the link below you can donate via Lightning or On-Chain.
+このサイトにかかる費用は、ドメイン名の年間支払額（12ドル）だけです。もしあなたが私を助けたいと思ってくださるなら、事前にとても感謝しています。以下のリンクから、LightningまたはOn-Chain経由で寄付することができます。
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donate" ></div>
+<div class="tallypay" data-user="rene78" data-size="button" data-button_text="寄贈" ></div>
