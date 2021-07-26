@@ -191,7 +191,7 @@ Normalerweise kommen Investitionsblasen nie wieder zurück, nachdem sie geplatzt
 
 **Antwort**
 ```
-Die Volatilität sollte zurückgehen, wenn Bitcoin im Laufe der Zeit aufgrund der größeren Akzeptanz und Reife mehr Wert speichert. Langsame Transaktionszeiten und die daraus resultierenden hohen Transaktionskosten können mit Hilfe von Ebenen gelöst werden, die auf der Bitcoin-Abwicklungsebene aufbauen. Die populärste ist derzeit das "Lightning Network", das nahezu augenblickliche Transaktionen für vernachlässigbare Gebühren ermöglicht.
+Die Volatilität sollte zurückgehen, wenn Bitcoin im Laufe der Zeit aufgrund der größeren Akzeptanz und Reife mehr Wert speichert. Langsame Transaktionszeiten und die daraus resultierenden hohen Transaktionskosten können mit Hilfe von Ebenen gelöst werden, die auf der Bitcoin-Abwicklungsebene aufbauen. Die populärste ist derzeit das "Lightning-Netzwerk", das nahezu augenblickliche Transaktionen zu vernachlässigbaren Gebühren ermöglicht.
 ```
 <details>
 
