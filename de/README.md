@@ -120,7 +120,7 @@ Bitcoin ist ein junger, unkorrelierter Vermögenswert, der schnell im Wert gesti
 
 **Antwort**
 ```
-Der Verbrauch von Energie ist eine wesentliche Voraussetzung, um die einzigartigen Eigenschaften von Bitcoin durchzusetzen und aufrechtzuerhalten - namentlich seine Unveränderlichkeit, Offenheit, Grenzunabhängigkeit, Dezentralisierung, Zensurresistenz und Knappheit. Bitcoin-Miner neigen dazu, ihre Ausrüstung an Orten aufzustellen, wo die Energiekosten besonders niedrig sind. Es wird immer deutlicher, dass Strom aus erneuerbaren Energiequellen im Vergleich zu konventionellen Energieträgern viel günstiger sein kann.
+Der Verbrauch von Energie ist eine wesentliche Voraussetzung, um die einzigartigen Eigenschaften von Bitcoin durchzusetzen und aufrechtzuerhalten - namentlich seine Unveränderlichkeit, Offenheit, Grenzunabhängigkeit, Dezentralisierung, Zensurresistenz und Knappheit. Bitcoin-Miner neigen dazu, ihre Ausrüstung an Orten aufzustellen, wo die Energiekosten besonders niedrig sind. Dabei wird immer deutlicher, dass Strom aus erneuerbaren Energiequellen im Vergleich zu konventionellen Energieträgern einen Preisvorteil hat. Miner werden  diesen grünen Strom entsprechend mehr und mehr nachfragen.
 
 Die große Frage ist jedoch eine andere:
 Wie viel ist der Menschheit ein knappes, völlig dezentralisiertes und zensurresistentes Geldsystem wert, das für jeden offen ist - unabhängig von Rasse, persönlichem Reichtum oder dem Grad der Inkompetenz/Bösartigkeit der Regierung?
