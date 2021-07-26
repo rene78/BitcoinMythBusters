@@ -156,7 +156,7 @@ La red Bitcoin ha demostrado funcionar sin problemas desde su creación en 2009.
 
   Bitcoin puede compararse con el protocolo sobre el que funciona Internet: TCP/IP. Ambos son capas base bastante simples, sobre las que se pueden construir tecnologías más avanzadas, por ejemplo, HTTP para sitios web en el caso de TCP/IP o la red Lightning como capa de pago para Bitcoin. Es muy poco probable que se consiga un consenso mundial para cambiar el protocolo de Internet, que es utilizado por miles de millones de dispositivos. Lo mismo es válido para el protocolo de Bitcoin.
 
-  Todas las bifurcaciones duras de Bitcoin (BCH, BSV y otras) no han ganado ninguna tracción y están perdiendo constantemente en todas las métricas relevantes, por ejemplo, hashrate, capitalización de mercado o recuento de nodos.
+  Todas las *hard forks* de Bitcoin (BCH, BSV y otras) no han ganado ninguna tracción y están perdiendo constantemente en todas las métricas relevantes, por ejemplo, hashrate, capitalización de mercado o recuento de nodos.
 
   Más información (en inglés): [Lyn Alden - Analyzing Bitcoin’s Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
 
