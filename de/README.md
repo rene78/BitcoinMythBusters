@@ -96,7 +96,7 @@ Die Dezentralität von Bitcoin macht es selbst für Regierungen unmöglich, ihn 
 
 **Antwort**
 ```
-Bitcoin ist ein junger, unkorrelierter Vermögenswert, der schnell im Wert gestiegen ist und sich noch viele Jahre in der Preisfindungsphase befinden wird. Die Volatilität sollte mit zunehmender Akzeptanz und Reife abnehmen, da es mehr Wert speichert.
+Bitcoin ist ein junger, unkorrelierter Vermögenswert, der schnell im Wert gestiegen ist und sich noch viele Jahre in der Preisfindungsphase befinden wird. Die Volatilität sollte mit zunehmender Akzeptanz und Reife abnehmen, da er mehr Wert abbildet.
 ```
 <details>
 
