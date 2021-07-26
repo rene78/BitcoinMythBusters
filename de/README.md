@@ -170,7 +170,7 @@ Das Bitcoin-Netzwerk hat seit seiner Gründung im Jahr 2009 bewiesen, dass es ei
 
 **Antwort**
 ```
-Normalerweise kommen Investitionsblasen nie wieder zurück, nachdem sie geplatzt sind. Bitcoin hingegen hatte mehrere solcher Zyklen - wobei jede Blase größer war als die vorherige. Dies kann als natürliche Adoptionsschleifen interpretiert werden, da mehr und mehr Menschen neugierig werden und während jeder Hausse mehr über die einzigartigen Eigenschaften von Bitcoin erfahren.
+Normalerweise kommen Investitionsblasen nie wieder zurück, nachdem sie geplatzt sind. Bitcoin hingegen hatte mehrere solcher Zyklen - wobei jede Blase größer war als die vorherige. Dies kann man als natürliche Adoptionsschleifen interpretieren. Während jeder Hausse werden mehr und mehr Menschen neugierig und erfahren von den einzigartigen monetären Eigenschaften von Bitcoin.
 ```
 <details>
 
