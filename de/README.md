@@ -74,7 +74,7 @@ Unabhängige Studien legen nahe, dass die illegale Nutzung von Bitcoin nicht hö
 
 **Antwort**
 ```
-Die Dezentralität von Bitcoin macht es selbst für Regierungen unmöglich, ihn komplett zu verbannen. Indem sie es versuchen, könnten Unternehmen in diesen Ländern die Fähigkeit verlieren, in einem durch Kryptowährungen völlig umgestalteten Finanzsektor zu konkurrieren.
+Die Dezentralität von Bitcoin macht es selbst für Regierungen unmöglich, ihn komplett zu verbannen. Durch den Versuch könnten Unternehmen in diesen Ländern ihre Konkurrenzfähigkeit in einem durch Kryptowährungen völlig umgestalteten Finanzsektor verlieren.
 ```
 <details>
 
