@@ -43,46 +43,46 @@
 
 **Ответить**
 ```
-Independent reports suggest that the illicit use of Bitcoin is not higher than in the traditional banking system. Like any useful technology Bitcoin can be utilized to do good or harm.
+Независимые отчеты свидетельствуют о том, что незаконное использование Биткойна не выше, чем в традиционной банковской системе. Как и любая полезная технология, биткойн может быть использован как во благо, так и во вред.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  It is unlogical to say that Bitcoin is only used for criminal activities while at the same time denying its usability as money for all of us.
+  Нелогично говорить, что биткоин используется только для преступной деятельности, и в то же время отрицать его пригодность в качестве денег для всех нас.
 
   ```mermaid
   graph TD
-  A[Is Bitcoin functional?] --> |No| B[Bitcoin is not functional <br/>for criminals nor anyone else]
-  A --> |Yes| C[Bitcoin is functional for everyone,<br/>including criminals]
+  A[Является ли биткойн функциональным?] --> |Нет| B[Биткоин не является функциональным <br/>для преступников или кого-либо еще]
+  A --> |Да| C[Биткойн подходит для всех, <br/>включая преступников]
 
   style B fill:#ff6666
   style C fill:#42B983
   ```
 
-  Studies show that BTC is not excessively used for illegal activities, e.g. former CIA intelligence analyst Michael Morell concluded in his research that **only about 1%** of all Bitcoin transactions can be **linked to illegal actions**. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
+  Исследования показывают, что BTC не слишком часто используется для незаконной деятельности, например, бывший аналитик разведки ЦРУ Майкл Морелл в своем исследовании пришел к выводу, что **только около 1%** всех транзакций Bitcoin могут быть **связаны с незаконными действиями**. <sup id="criminals-link-to-footnote1">[1](#criminals-footnote1)</sup>.
 
-  Further reading (english): [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
+  Дальнейшее чтение (на английском языке): [Unchained Capital - Bitcoin is Not for Criminals](https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/)
 
   <b id="criminals-footnote1">1</b> [Michael Morell et al. - An Analysis of Bitcoin’s Use in Illicit Finance](https://cryptoforinnovation.org/resources/Analysis_of_Bitcoin_in_Illicit_Finance.pdf) [↩](#criminals-link-to-footnote1)
 
 </details>
 
-## The Government Will Shut Bitcoin Down
+## Правительство закроет доступ к биткоину
 
-> ***Governments will not allow a competing currency which they cannot control.***
+> ***Правительства не допустят появления конкурирующей валюты, которую они не смогут контролировать.***
 
 **Ответить**
 ```
-The decentralized nature of Bitcoin makes it impossible even for governments to eliminate it completely. By trying, companies in these countries could lose the ability to compete in a financial sector completely reshaped by cryptocurrencies.
+Децентрализованная природа биткойна делает невозможным его полную ликвидацию даже для правительств. Если попытаться это сделать, то компании в этих странах могут потерять возможность конкурировать в финансовом секторе, полностью перестроенном криптовалютами.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  More and more influential individuals and companies <sup id="shut-down-link-to-footnote1">[1](#shut-down-footnote1)</sup> are invested and believe in the cryptocurrency. El Salvador was the first country to declare Bitcoin as legal tender <sup id="shut-down-link-to-footnote2">[2](#shut-down-footnote2)</sup>. This rapidly evolving trend makes it increasingly difficult to prevent the further propagation without provoking counter-reactions.
+  Все больше влиятельных лиц и компаний <sup id="shut-down-link-to-footnote1">[1](#shut-down-footnote1)</sup> инвестируют и верят в криптовалюту. Сальвадор стал первой страной, объявившей биткоин законным платежным средством <sup id="shut-down-link-to-footnote2">[2](#shut-down-footnote2)</sup>. Из-за этой быстро развивающейся тенденции становится все труднее предотвратить ее дальнейшее распространение, не вызвав ответной реакции.
 
-  Further reading (english): [Quillette - Can Governments Stop Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
+  Дальнейшее чтение (на английском языке): [Quillette - Can Governments Stop Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
 
   <b id="shut-down-footnote1">1</b> [CNBC - BlackRock’s Rick Rieder says the world’s largest asset manager has ‘started to dabble’ in bitcoin](https://www.cnbc.com/2021/02/17/blackrock-has-started-to-dabble-in-bitcoin-says-rick-rieder.html) [↩](#shut-down-link-to-footnote1)
 
@@ -90,259 +90,261 @@ The decentralized nature of Bitcoin makes it impossible even for governments to 
 
 </details>
 
-## Bitcoin Is Too Volatile
+## Биткоин слишком волатилен
 
-> ***Bitcoin is too volatile in order to be used as currency or store-of-value.***
+> ***Биткоин слишком волатилен для того, чтобы его можно было использовать в качестве валюты или хранилища стоимости.***
 
 **Ответить**
 ```
-Bitcoin is a young, uncorrelated asset that has risen rapidly in value and will be in its price discovery phase for many years to come. The volatility should decrease as it stores more value due to greater adoption and maturity.
+Биткойн - это молодой, некоррелированный актив, который быстро вырос в цене и будет находиться на стадии открытия цены еще много лет. Волатильность должна снижаться по мере накопления стоимости в связи с более широким внедрением и зрелостью.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  At this point in time, as Bitcoin has already achieved a considerable market capitalization but is still several orders of magnitude below a global store of value <sup id="volatile-link-to-footnote1">[1](#volatile-footnote1)</sup>, it makes sense to consider it as an emerging store of value.
+  На данный момент, поскольку биткойн уже достиг значительной рыночной капитализации, но все еще на несколько порядков ниже мирового хранилища стоимости <sup id="volatile-link-to-footnote1">[1](#volatile-footnote1)</sup>, имеет смысл рассматривать его как формирующееся хранилище стоимости.
 
-  If Bitcoin ever reaches the status of a world reserve currency it can be assumed that the price will develop in tandem with the world economy.
+  Если биткойн когда-нибудь достигнет статуса мировой резервной валюты, можно предположить, что его цена будет развиваться в тандеме с мировой экономикой.
 
-  But even nowadays, when push comes to shove, Bitcoin's "volatility" is barely noticeable when compared to a hyperinflationary currency.
+  Но даже сегодня, когда дело доходит до драки, "волатильность" биткойна едва заметна по сравнению с гиперинфляционной валютой.
 
   <b id="volatile-footnote1">1</b> [River Financial - How Much of the World's Money Is in Bitcoin?](https://river.com/learn/how-much-worlds-money-in-bitcoin/) [↩](#volatile-link-to-footnote1)
 
-  Further reading (english): [Unchained Capital - Bitcoin Is Not Too Volatile](https://unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
+  Дальнейшее чтение (на английском языке): [Unchained Capital - Bitcoin Is Not Too Volatile](https://unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
 
 </details>
 
-## Bitcoin Wastes Energy
+## Биткойн тратит энергию впустую
 
-> ***Bitcoin mining uses ever increasing amounts of energy without anything in return.***
+> ***Майнинг биткоина потребляет все большее количество энергии, не получая ничего взамен.***
 
 **Ответить**
 ```
-The consumption of energy is an essential requirement to enforce and maintain Bitcoin's unique characteristics - namely, its immutability, openness, borderlessness, decentralization, resistance to censorship, and scarcity. Bitcoin miners tend to set up their equipment in places where energy costs are particularly low. It is becoming increasingly apparent that electricity from renewable energy sources can be much more competitively priced compared to conventional energy sources.
+Потребление энергии является необходимым условием для обеспечения и поддержания уникальных характеристик Биткойна - его неизменности, открытости, безграничности, децентрализации, устойчивости к цензуре и дефицита. Майнеры Биткойна обычно устанавливают свое оборудование в местах, где стоимость энергии особенно низка. Становится все более очевидным, что электроэнергия из возобновляемых источников энергии может быть гораздо более конкурентоспособной по цене по сравнению с традиционными источниками энергии.
 
-The big question, however, is another:
-How much does mankind value a scarce, completely decentralized and censorship resistant monetary system that is open for everyone - regardless of race, personal wealth, or the degree of government incompetency/malignancy?
+Однако главный вопрос заключается в другом:
+Насколько человечество ценит дефицитную, полностью децентрализованную и устойчивую к цензуре денежную систему, открытую для всех - независимо от расы, личного богатства или степени некомпетентности/злокачественности правительства?
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  There is no denying that Bitcoin mining will always stand in competition with other energy consumers for electricity. Nonetheless there are regions in the world, where unused excess energy is produced, e.g. Iceland (geothermal power), Sichuan/China or Siberia/Russia (both hydroelectric power). Here a global buyer of energy like Bitcoin miners are very welcome. Bitcoin can be considered a **power grid nomad**.
+  Нельзя отрицать, что майнинг биткоинов всегда будет конкурировать с другими потребителями электроэнергии. Тем не менее, в мире есть регионы, где производится неиспользуемый избыток энергии, например, Исландия (геотермальная энергия), Сычуань/Китай или Сибирь/Россия (обе гидроэлектростанции). Здесь глобальные покупатели энергии, такие как майнеры Биткойна, очень желанны. Биткойн можно считать **кочевником энергосистемы**.
 
-  The reward halving, which happens every 4 years has an important impact on the energy usage:
-  * Scenario 1: The price of Bitcoin continues to appreciate substantially
+  Снижение вознаграждения в два раза, которое происходит каждые 4 года, оказывает важное влияние на использование энергии:
+  * Сценарий 1: Цена биткойна продолжает существенно расти.
 
-    The amount of energy needed will rise much slower than the Bitcoin price and finally reach a plateau.
-  * Scenario 2: The price of Bitcoin appreciates only slightly
+    Количество необходимой энергии будет расти гораздо медленнее, чем цена биткоина, и в конце концов достигнет плато.
+  * Сценарий 2: Цена Биткойна повышается незначительно.
 
-    Less energy is needed to mine Bitcoin due to stagnating competition in mining.
+    Для добычи Биткойна требуется меньше энергии из-за стагнации конкуренции в майнинге.
 
 
-  Further reading (english): [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+  Дальнейшее чтение (на английском языке): [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
 
 </details>
 
-## Bitcoin Can Be Cloned / Will Be Replaced By A Competitor
+## Биткоин может быть клонирован / будет заменен конкурентом
 
-> ***Bitcoin is open-source and just one of thousands of cryptocurrencies. Thus, Bitcoin is not scarce and cannot be of any value.***
+> ***Биткоин является открытым источником и всего лишь одной из тысяч криптовалют. Таким образом, биткойн не является дефицитной валютой и не может представлять какую-либо ценность.***
 
 **Ответить**
 ```
-The Bitcoin network has proven to be working flawlessly since its inception in 2009. This reliability, its unique monetary properties and a highly secured network are leading to an ever increasing network effect, which makes it very hard for any competitor in the fields "store of value" and "medium of exchange" to gain traction.
+Сеть Bitcoin доказала свою безупречную работу с момента своего создания в 2009 году. Эта надежность, уникальные денежные свойства и высокая степень защиты сети приводят к постоянно растущему сетевому эффекту, что делает очень трудным для любого конкурента в области "хранения стоимости" и "средства обмена" набрать обороты.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  Bitcoin can be compared to the protocol on which the internet runs - TCP/IP. Both are rather simple base layers, on which more advanced technologies can be built upon, e.g. HTTP for websites in case of TCP/IP or the Lightning network as a payment layer for Bitcoin. It is extremely unlikely to get worldwide consensus to change the internet protocol, which is used by billions of devices. The same is valid for the Bitcoin protocol.
+  Биткойн можно сравнить с протоколом, на котором работает Интернет - TCP/IP. Оба они являются довольно простыми базовыми слоями, на которых могут быть построены более продвинутые технологии, например, HTTP для веб-сайтов в случае TCP/IP или сеть Lightning в качестве платежного слоя для Bitcoin. Крайне маловероятно получить всемирный консенсус для изменения интернет-протокола, который используется миллиардами устройств. То же самое справедливо и для протокола Биткойн.
 
-  All hard forks of Bitcoin (BCH, BSV and others) have not gained any traction and are constantly losing out on all relevant metrics, e.g. hashrate, market cap or node count. 
+  Все хардфорки биткоина (BCH, BSV и другие) не получили никакого развития и постоянно проигрывают по всем значимым показателям, например, хэшрейту, рыночной капитализации или количеству узлов.
 
-  Further reading (english): [Lyn Alden - Analyzing Bitcoin’s Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
+  Дальнейшее чтение (на английском языке): [Lyn Alden - Analyzing Bitcoin’s Network Effect](https://www.lynalden.com/bitcoins-network-effect/)
 
 </details>
 
-## Bitcoin Is A Bubble
+## Биткоин - это пузырь
 
-> ***Like the tulip bulbs of 17th-century Holland, Bitcoin is a retail mania, that will vanish.***
+> ***Подобно луковицам тюльпанов в Голландии XVII века, биткойн - это мания розничной торговли, которая исчезнет.***
 
 **Ответить**
 ```
-Normally investment bubbles never come back after they burst. Bitcoin on the other hand had multiple of those cycles - with each bubble being larger than the previous one. This can be interpreted as natural adoption loops with more and more people getting curious and learn about the unique properties of Bitcoin during each bull run.
+Обычно инвестиционные пузыри никогда не возвращаются после того, как лопаются. Биткойн же имел несколько таких циклов, причем каждый пузырь был больше предыдущего. Это можно интерпретировать как естественную петлю принятия, когда все больше и больше людей проявляют любопытство и узнают об уникальных свойствах биткоина во время каждого цикла.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  The chances of Bitcoin to vanish is getting smaller with each new individual, company or state holding it. Bitcoin is showing characteristics of growth - both in price and acceptance metrics - similar to an increasingly dominant tech company or protocol.
+  Шансы на исчезновение биткоина уменьшаются с каждым новым человеком, компанией или государством, владеющим им. Биткойн демонстрирует признаки роста - как в цене, так и в показателях принятия - подобно все более доминирующей технологической компании или протоколу.
 
-  ![Diagram of BTC Market Cap from 2012-2021](../_images/BTC_Market_Cap.png)
-  *Logarithmic display of Bitcoin's increase in market capitalisation from 2012-2021 (Chart Source: Blockchain.com)*
+  ![Диаграмма рыночной капитализации BTC в 2012-2021 годах](../_images/BTC_Market_Cap.png)
+  *Логарифмическое отображение роста рыночной капитализации биткоина с 2012 по 2021 год (Источник диаграммы: Blockchain.com)*
 
-  Further reading (english): [Satoshi Nakamoto Institute - How We Know Bitcoin Is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
+  Дальнейшее чтение (на английском языке): [Satoshi Nakamoto Institute - How We Know Bitcoin Is Not a Bubble](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/)
 
 </details>
 
-## Bitcoin Fails As A Currency / Cannot Scale
+## Биткойн не работает как валюта / не может масштабироваться
 
-> ***The volatility, slow transaction time and high fees disqualify Bitcoin for everyday use as a payment method.***
+> ***Волатильность, медленное время транзакций и высокие комиссии не позволяют использовать биткоин в качестве платежного метода в повседневной жизни.***
 
 **Ответить**
 ```
-The volatility should decrease as Bitcoin stores more value due to greater adoption and maturity. Slow transaction times and the resulting high transaction costs can be solved with the help of layers, which are built on top of the Bitcoin settlement layer. The most popular being the "Lightning Network" at the moment, which enables almost instantanious transactions for negligible fees.
+Волатильность должна уменьшиться по мере того, как Биткойн будет накапливать все большую ценность благодаря более широкому внедрению и зрелости. Медленное время транзакций и, как следствие, высокие транзакционные издержки могут быть решены с помощью слоев, которые строятся поверх расчетного слоя Биткойна. Самым популярным из них в настоящее время является "Lightning Network", которая позволяет проводить практически мгновенные транзакции за незначительные комиссионные.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  It is **essential for the security of Bitcoin that as many people as possible can store and update the Blockchain** - a database with all transactions ever made. In order to achieve that the Blockchain size should only grow modestly, which in turn leads to a limited amount of transactions per second and thus elevated transaction fees in times of high traffic. As of today there is no technical solution to increase transaction throughput without sacrificing decentralization and security.
+  Для безопасности Биткойна **необходимо, чтобы как можно больше людей могли хранить и обновлять блокчейн** - базу данных со всеми когда-либо совершенными транзакциями. Для достижения этой цели размер блокчейна должен расти незначительно, что, в свою очередь, приводит к ограничению количества транзакций в секунду и, следовательно, к увеличению платы за транзакции во время высокого трафика. На сегодняшний день не существует технического решения, позволяющего увеличить пропускную способность транзакций без ущерба для децентрализации и безопасности.
 
   ```mermaid
   flowchart LR
-    Scalability o--o Decentralization & Security;
-    Decentralization o--o Security;
+    Масштабируемость o--o Децентрализация & Безопасность;
+    Децентрализация o--o Безопасность;
   ```
-  *The Blockchain Trilemma: You can only improve 2 at a time*
+  *Трилемма блокчейна: одновременно можно улучшать только два варианта*
 
-  The most promising solution to use Bitcoin even for small purchases while maintaining its unique monetary properties is the second-layer-solution ***Bitcoin Lightning***.
+  Наиболее перспективным решением, позволяющим использовать биткоин даже для небольших покупок, сохраняя его уникальные денежные свойства, является решение второго уровня ***Bitcoin Lightning***.
 
-  Further watching (English):
+  Дальнейший просмотр (на английском языке):
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
+  [![Пояснительное видео от Андреаса М. Антонопулоса](https://img.youtube.com/vi/fYv0qvPOX2U/0.jpg)](https://www.youtube.com/watch?v=fYv0qvPOX2U&list=PLPQwGV1aLnTurL4wU_y3jOhBi9rrpsYyi&index=11 "Andreas M. Antonopoulos - Why Does Bitcoin Need a Second Layer?")
 
 </details>
 
-## Bitcoin Gets Hacked
+## Биткойн подвергается хакерской атаке
 
-> ***There is a lot of news about Bitcoin being hacked and millions of dollars taken. This cannot be a secure system.***
+> ***Существует много новостей о том, что биткойн взломали и похитили миллионы долларов. Это не может быть безопасной системой.***
 
 **Ответить**
 ```
-Bitcoin has been working flawlessly almost since its inception in 2009. What is getting hacked are crypto exchanges and other centralized entities. It is similar to stating that the US-Dollar is a bad currency because banks get robbed.
+Биткоин работает безупречно практически с момента своего создания в 2009 году. Взламывают криптобиржи и другие централизованные структуры. Это все равно, что утверждать, что доллар США - плохая валюта, потому что банки грабят..
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  Bitcoin is by far the most secure network system due to its decentralized nature and the countless specialized computers around the world, which ensure that the system cannot be tampered with.
+  Биткойн, безусловно, является самой безопасной сетевой системой благодаря своей децентрализованной природе и бесчисленным специализированным компьютерам по всему миру, которые гарантируют, что система не может быть взломана.
 
-  To take full advantage of the security one should make sure to self custody his/her coins.
+  Чтобы в полной мере воспользоваться преимуществами безопасности, необходимо убедиться в самостоятельном хранении своих монет.
 
-  > "Not your Keys, not your Coins!" - Andreas M. Antonopoulos
+  > "Не ваши ключи, не ваши монеты!" - Андреас М. Антонопулос
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
+  [![Пояснительное видео от Андреаса М. Антонопулоса](https://img.youtube.com/vi/vt-zXEsJ61U/0.jpg)](https://www.youtube.com/watch?v=vt-zXEsJ61U "Andreas M. Antonopoulos - How Do I Secure My Bitcoin?")
 
 </details>
 
-## Bitcoin Is A Ponzi Scheme
+## Биткойн - это схема Понци
 
-> ***Once people stop pouring new money into Bitcoin it will quickly collapse.***
+> ***Как только люди перестанут вливать новые деньги в биткоин, он быстро рухнет.***
 
 **Ответить**
 ```
-Bitcoin shows no signs of a Ponzi scheme: New investors are not paid with money from old ones, there was no premining of coins and it does not have a leadership team. Bitcoin grew very organically since its creation and the market is pricing the asset, as it sees fit.
+Биткойн не имеет признаков схемы Понци: Новые инвесторы не получают деньги от старых, не было предварительного майнинга монет, и у него нет команды лидеров. Биткойн вырос очень органично с момента своего создания, и рынок оценивает этот актив так, как считает нужным.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  How is a *Ponzi Scheme* actually defined? And does Bitcoin tick the boxes? See below:
+  Как на самом деле определяется *схема Понци*? И подходит ли биткойн под это определение? См. ниже:
 
-  | Signs of a Ponzi scheme | How is it with Bitcoin?|
+  | Признаки схемы Понци | Как обстоит дело с биткойном?|
   | ------------------------|------------------------|
-  | Promised high investment returns | <span style="color:green">Satoshi (the creator) never promised any return</span> |
-  | Misleading or outright wrongful statements regarding business strategy | <span style="color:green">Bitcoin has been open-sourced from the very beginning</span> |
-  | "Extroverteted" leadership team | <span style="color:green">Bitcoin's creator is unknown. The rest of the dev community is highly decentralized</span>|
-  | Unregistered Investments and Unlicensed Sellers | <span style="color:red">Bitcoin (luckily) doesn't need a license</span>|
+  | Обещанные высокие доходы от инвестиций | <span style="color:green">Сатоши (создатель) никогда не обещал никакой отдачи.</span> |
+  | Вводящие в заблуждение или откровенно неправомерные заявления относительно бизнес-стратегии | <span style="color:green">Биткойн с самого начала пользовался открытым исходным кодом</span> |
+  | "Экстравертированная" команда руководителей | <span style="color:green">Создатель Биткойна неизвестен. Остальное сообщество разработчиков в высшей степени децентрализовано</span>|
+  | Незарегистрированные инвестиции и нелицензированные продавцы | <span style="color:red">Биткойн (к счастью) не нуждается в лицензии</span>|
 
-  Further reading (english): [Lyn Alden - Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
+  Дальнейшее чтение (на английском языке): [Lyn Alden - Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
 
 </details>
 
-## Bitcoin Can Be Killed By Quantum Computers
+## Биткойн может быть убит квантовыми компьютерами
 
-> ***Once a powerful enough quantum computer is available Bitcoin is dead.***
+> ***Как только появится достаточно мощный квантовый компьютер, биткоин умрет.***
 
 **Ответить**
 ```
-This might be a danger once quantum computers with enough processing power are available (possibly from 2035-2050). Work on post-quantum encryption standards is ongoing and would get implemented into the Bitcoin protocol, once the need arises.
+Это может стать опасным, когда появятся квантовые компьютеры с достаточной вычислительной мощностью (возможно, в 2035-2050 годах). Работа над постквантовыми стандартами шифрования продолжается, и они будут внедрены в протокол Bitcoin, как только возникнет такая необходимость.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  Without quantum-resistant encyryption standards there are 3 possible attack vectors for quantum computers:
-  * **Breaking the hashing algorithm of Bitcoin (SHA-256)**
+  Без квантово-устойчивых стандартов шифрования существует 3 возможных вектора атаки на квантовые компьютеры:
+  * **Взлом алгоритма хэширования Биткойна (SHA-256)**
 
-  At this point in time it is not clear whether quantum computers are able to crack this type of algorithm.
+  На данный момент неясно, способны ли квантовые компьютеры взломать этот тип алгоритма.
 
-  * **Breaking the public/private key algorithm (ECDSA - Elliptic Curves cryptography)**
+  * **Взлом алгоритма открытого/закрытого ключа (ECDSA - криптография эллиптических кривых)**
 
-  Reused Bitcoin addresses - i.e. addresses which published a signature - are at risk of getting cracked. If SHA-256 can be broken as well then all Bitcoin addresses are vulnerable.
+  Повторно используемые адреса Биткойн - т.е. адреса, опубликовавшие подпись - подвержены риску взлома. Если SHA-256 также может быть взломан, то все адреса Биткойн будут уязвимы.
 
-  * **Use quantum computers to mine much more efficiently than with state-of-the-art hardware**
+  * **Использование квантовых компьютеров для добычи намного эффективнее, чем с помощью современного оборудования**
 
-  This would possibly only be a temporary threat until other miners switch to quantum mining as well.
+  Возможно, это лишь временная угроза, пока другие майнеры не перейдут на квантовый майнинг.
 
-  Further watching (English):
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
+  Дальнейший просмотр (на английском языке):
 
-  Further reading (english): [Forbes - Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/)
+  [![Пояснительное видео от Андреаса М. Антонопулоса](https://img.youtube.com/vi/wlzJyp3Qm7s/0.jpg)](https://www.youtube.com/watch?v=wlzJyp3Qm7s "Andreas M. Antonopoulos - Bitcoin Q&A: Is Quantum Computing a Threat?")
+
+  Дальнейшее чтение (на английском языке): [Forbes - Here’s Why Quantum Computing Will Not Break Cryptocurrencies](https://www.forbes.com/sites/rogerhuang/2020/12/21/heres-why-quantum-computing-will-not-break-cryptocurrencies/)
 
 </details>
 
-## Bitcoin is controlled by China
+## Биткоин контролируется Китаем
 
-> ***Most of the Bitcoin mining happens in China. The mining hardware is manufactured there as well. Thus China can take control over Bitcoin anytime!***
+> ***Большая часть добычи биткоина происходит в Китае. Там же производится и оборудование для майнинга. Таким образом, Китай может взять контроль над биткоином в любой момент!***
 
 **Ответить**
 ```
-The potential to do damage by possessing the majority of mining power is very limited: A double spending of the miner's own funds would be possible by investing massive amounts of energy and money before the Bitcoin protocol was changed to exclude the bad actor and rendering his effort futile.
+Потенциал нанесения ущерба за счет обладания большей частью мощности майнинга очень ограничен: Двойная трата собственных средств майнера была бы возможна при вложении огромного количества энергии и денег до того, как протокол Биткойна был бы изменен, чтобы исключить плохого игрока и сделать его усилия бесполезными.
 
-This very theoretical threat is further mitigated by the trend toward increasingly global distribution of hash power.
+Эта теоретическая угроза еще больше снижается благодаря тенденции к все более глобальному распределению хэш-мощности.
 ```
 <details>
 
   <summary>Подробный ответ</summary>
 
-  So called 51% attacks, where one entity has more than half of the hashing power, are very expensive to pull off, require an enormous amount of coordination and deliver very little benefit for the attacker.
+  Так называемые атаки 51%, когда один субъект обладает более чем половиной мощности хэширования, очень дороги в исполнении, требуют огромного количества координации и приносят очень мало пользы атакующему.
   
-  **This is what *cannot* be done with a 51% attack:**
+  **Вот что *невозможно* сделать с помощью 51%-ной атаки:**
 
-  * You can't steal the people's money
-  * You can't change the consensus rules
-  * You can't make invalid transaction become valid
+  * Вы не можете украсть народные деньги.
+  * Вы не можете изменить правила консенсуса.
+  * Вы не можете заставить недействительную транзакцию стать действительной.
 
 
-  **This is what *can* be done with a 51% attack:**
+  **Вот что *можно* сделать с помощью 51% атаки:**
 
-  * Double spending of the attackers Bitcoin
+  * Двойная трата биткоина атакующего.
 
-    Very expensive attack that could be fended off with a code change. It is certainly safer to just use your hashpower to profit from securing the network rather than attacking it.
+    Очень дорогая атака, от которой можно защититься изменением кода. Конечно, безопаснее просто использовать свои хэш-мощности для получения прибыли от защиты сети, а не от атак на нее.
 
-  * Mine empty blocks and render the network useless
+  * Добывать пустые блоки и сделать сеть бесполезной.
 
-    Has to be upheld for a long time to prevent the intended use of Bitcoin. This attack costs massive amounts of money and energy. If the attacker does not stop on its own a code change could be implemented to render the attackers hardware worthless.
+    Приходится выдерживать в течение длительного времени, чтобы предотвратить использование Биткойна по назначению. Эта атака стоит огромного количества денег и энергии. Если атакующий не остановится сам, можно внести изменения в код, чтобы сделать аппаратное обеспечение атакующего бесполезным.
 
-  Further watching (English):
 
-  [![Explanatory video from Andreas M. Antonopoulos](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
+  Дальнейший просмотр (на английском языке):
 
-  Further reading (english): [Jameson Lopp - Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
+  [![Пояснительное видео от Андреаса М. Антонопулоса](https://img.youtube.com/vi/JNVqXE2bSfE/0.jpg)](https://youtu.be/JNVqXE2bSfE "Andreas M. Antonopoulos - Bitcoin Q&A: What's the Biggest Threat to Bitcoin in 2020?")
+
+  Дальнейшее чтение (на английском языке): [Jameson Lopp - Are Chinese Miners a Threat to Bitcoin?](https://blog.lopp.net/are-chinese-miners-threat-bitcoin/)
 
 </details>
 
 ***
 
-# Contribute
+# Вклад
 
-You can add or edit questions and answers by clicking the *Edit on GitHub* button on top of the page. If you add a new Critique & Answer make sure to copy a previous C&A in order to have consistent formatting. *Auto-merge* is enabled, so all your changes should be visible in the document right away, but I reserve the right to reverse changes that I find unhelpful.
+Вы можете добавлять или редактировать вопросы и ответы, нажав на кнопку *Edit on GitHub* в верхней части страницы. Если вы добавляете новый вопрос и ответ, обязательно скопируйте предыдущий вопрос и ответ, чтобы форматирование было последовательным. Включена функция *Auto-merge*, поэтому все ваши изменения должны быть видны в документе сразу же, но я оставляю за собой право отменить изменения, которые покажутся мне бесполезными.
 
-## Donate
+## Пожертвовать
 
-The only cost incurred for this site is the annual payment for the domain name ($12). If you feel like helping me on this - thanks very much in advance! With the link below you can donate via Lightning or On-Chain.
+Единственные расходы, понесенные для этого сайта - это ежегодный платеж за доменное имя ($12). Если у вас есть желание помочь мне в этом - заранее большое спасибо! По ссылке ниже вы можете сделать пожертвование через Lightning или On-Chain.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donate" ></div>
+<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Пожертвовать" ></div>
