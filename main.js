@@ -117,6 +117,7 @@ document.onreadystatechange = () => {
     for (let i = 0; i < navigator.languages.length; i++) {
       const navigatorLanguage = navigator.languages[i].slice(0, 2); //Just keep the first 2 letters (e.g. en-US --> en)
       // console.log(navigatorLanguage);
+      if (navigatorLanguage === "en") break; //Stop code execution, if default language is selected in browser
       if (languages.indexOf(navigatorLanguage) !== -1) {
         window.location.hash = "/" + navigatorLanguage + "/";
         break;
