@@ -3,8 +3,6 @@
   <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
 </div>
 
-> **Klarstellung gängiger Missverständnisse bezüglich Bitcoin.**
-
 # Zweck
 
 *BitcoinMythBusters* hilft Dir, **schlüssige Antworten auf berechtigte oder unberechtigte Kritik an Bitcoin** zu geben. Klicke auf die Antwort, um den Text zur Verwendung in einem beliebigen sozialen Netzwerk, Forum oder einer Messenger-App zu kopieren. **Vorbei sind die Zeiten, in denen man die gleichen Bedenken immer und immer wieder manuell widerlegt hat**.
@@ -68,7 +66,7 @@ Unabhängige Studien legen nahe, dass die illegale Nutzung von Bitcoin nicht hö
 
 </details>
 
-## Die Regierung Wird Bitcoin Sperren Lassen
+## Bitcoin Wird Von Regierungen Gesperrt Werden
 
 > ***Die Regierungen werden keine konkurrierende Währung zulassen, die sie nicht kontrollieren können.***
 
