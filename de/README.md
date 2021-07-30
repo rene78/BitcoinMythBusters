@@ -11,7 +11,7 @@
 
 # Bitcoin Kritiken & Antworten
 
-## Bitcoin Hat Keinen Intrinsischen Wert
+## Bitcoin hat keinen intrinsischen Wert
 
 > ***Bitcoin ist ausschließlich digital & durch nichts gedeckt und hat daher keinen intrinsischen Wert.***
 
@@ -35,7 +35,7 @@ Die Menschheit bewertet jede Erfindung basierend auf ihrem Nutzen für einen bes
 
 </details>
 
-## Bitcoin Wird Nur Von Kriminellen Benutzt
+## Bitcoin wird nur von Kriminellen benutzt
 
 > ***Bitcoin wird von Drogendealern, Geldwäschern und Ransomware-Angreifern verwendet; deshalb ist er schlecht.***
 
@@ -66,7 +66,7 @@ Unabhängige Studien legen nahe, dass die illegale Nutzung von Bitcoin nicht hö
 
 </details>
 
-## Bitcoin Wird Von Regierungen Gesperrt Werden
+## Bitcoin wird von Regierungen gesperrt werden
 
 > ***Die Regierungen werden keine konkurrierende Währung zulassen, die sie nicht kontrollieren können.***
 
@@ -88,7 +88,7 @@ Die Dezentralität von Bitcoin macht es selbst für Regierungen unmöglich, ihn 
 
 </details>
 
-## Bitcoin Ist Zu Volatil
+## Bitcoin ist zu volatil
 
 > ***Bitcoin ist zu volatil, um als Währung oder Wertaufbewahrungsmittel verwendet werden zu können.***
 
@@ -112,7 +112,7 @@ Bitcoin ist ein junger, unkorrelierter Vermögenswert, der schnell im Wert gesti
 
 </details>
 
-## Bitcoin Verschwendet Energie
+## Bitcoin verschwendet Energie
 
 > ***Bitcoin-Mining verbraucht immer größere Mengen an Energie, ohne dass es eine Gegenleistung gibt.***
 
@@ -142,7 +142,7 @@ Wie viel ist der Menschheit ein knappes, völlig dezentralisiertes und zensurres
 
 </details>
 
-## Bitcoin Kann Geklont / Durch Einen Konkurrenten Ersetzt Werden
+## Bitcoin kann geklont / durch einen Konkurrenten ersetzt werden
 
 > ***Bitcoin ist Open-Source und nur eine von tausenden Kryptowährungen. Daher ist Bitcoin nicht knapp und kann keinen Wert haben.***
 
@@ -162,7 +162,7 @@ Das Bitcoin-Netzwerk hat seit seiner Gründung im Jahr 2009 bewiesen, dass es ei
 
 </details>
 
-## Bitcoin Ist Eine Blase
+## Bitcoin ist eine Blase
 
 > ***Wie die Tulpenzwiebeln im Holland des 17. Jahrhunderts ist der Bitcoin eine Modeerscheinung, die wieder verschwinden wird.***
 
@@ -183,7 +183,7 @@ Normalerweise kommen Investitionsblasen nie wieder zurück, nachdem sie geplatzt
 
 </details>
 
-## Bitcoin Scheitert Als Währung / Kann Nicht Skalieren
+## Bitcoin scheitert als Währung / kann nicht skalieren
 
 > ***Die Volatilität, langsamen Transaktionszeiten und hohen Gebühren disqualifizieren Bitcoin für den täglichen Gebrauch als Zahlungsmittel.***
 
@@ -212,7 +212,7 @@ Die Volatilität sollte zurückgehen, wenn Bitcoin im Laufe der Zeit aufgrund de
 
 </details>
 
-## Bitcoin Wird Gehackt
+## Bitcoin wird gehackt
 
 > ***Es gibt häufig Nachrichten darüber, dass Bitcoin gehackt und Millionen von Euro gestohlen wurden. Das kann kein sicheres System sein.***
 
@@ -234,7 +234,7 @@ Bitcoin funktioniert seit seiner Einführung im Jahr 2009 einwandfrei. Was gehac
 
 </details>
 
-## Bitcoin Ist Ein Schneeballsystem
+## Bitcoin ist ein Schneeballsystem
 
 > ***Sobald die Leute aufhören, neues Geld in Bitcoin zu stecken, wird es schnell zusammenbrechen.***
 
@@ -259,7 +259,7 @@ Bitcoin zeigt keine Anzeichen eines Schneeballsystems: Neue Investoren werden ni
 
 </details>
 
-## Bitcoin Kann Von Quantencomputern Zerstört Werden
+## Bitcoin kann von Quantencomputern zerstört werden
 
 > ***Sobald ein ausreichend leistungsfähiger Quantencomputer zur Verfügung steht, ist Bitcoin tot.***
 
@@ -292,7 +292,7 @@ Dies könnte eine Gefahr darstellen, sobald Quantencomputer mit genügend Rechen
 
 </details>
 
-## Bitcoin Wird Von China Kontrolliert
+## Bitcoin wird von China kontrolliert
 
 > ***Der Großteil des Bitcoin-Minings findet in China statt. Auch die Mining-Hardware wird dort hergestellt. Somit kann China jederzeit die Kontrolle über Bitcoin übernehmen!***
 
