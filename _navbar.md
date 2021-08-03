@@ -1,9 +1,0 @@
-- :uk: English ▾
-  - [:de: Deutsch](/de/)
-  - [:es: Español](/es/)
-  - [:fr: Français](/fr/)
-  - [:it: Italiano](/it/)
-  - [:jp: 日本](/ja/)
-  - [<img class="emoji" src="../_images/br.png"> Português](/pt/)
-  - [:ru: ру́сский](/ru/)
-  - [:cn: 中国人](/zh/)
