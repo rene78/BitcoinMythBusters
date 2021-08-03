@@ -142,6 +142,8 @@ How much does mankind value a scarce, completely decentralized and censorship re
 
   Further reading: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
 
+  [Fillippone - Debunking the "Bitcoin is an environmental disaster" argument](https://bitcointalk.org/index.php?topic=5325350)
+
 </details>
 
 ## Bitcoin Can Be Cloned / Will Be Replaced By A Competitor
