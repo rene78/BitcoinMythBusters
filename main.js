@@ -113,11 +113,13 @@ document.onreadystatechange = () => {
   if (route) {
     window.location.hash = route; //relative to domain
     //Update language selector
-    const lang = route.slice(2, 4);
+    const lang = route.slice(2, 4); //Gonna be "?i" for default, i.e. English route.
     // console.log(lang);
+    currLangIndex.selectedIndex = 1; //set selectedIndex to the default "English" first. Gonna be overwritten if lang != "?i"
     for (let i = 0; i < languages.length; i++) {
       if (languages[i] === lang) {
         currLangIndex.selectedIndex = i;
+        break;
       }
     }
   }
@@ -129,7 +131,7 @@ document.onreadystatechange = () => {
       const navigatorLanguage = navigator.languages[i].slice(0, 2); //Just keep the first 2 letters (e.g. en-US --> en)
       // console.log(navigatorLanguage);
       if (navigatorLanguage === "en") {
-        currLangIndex.selectedIndex = 1;//set selectedIndex to "English" in lanugage selector
+        currLangIndex.selectedIndex = 1; //set selectedIndex to "English" in lanugage selector
         break; //Stop code execution, if default language is selected in browser
       }
       if (languages.indexOf(navigatorLanguage) !== -1) {
