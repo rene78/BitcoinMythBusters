@@ -8,7 +8,7 @@ mermaid.initialize({ startOnLoad: false });
 window.$docsify = {
   name: 'BitcoinMythBusters',
   repo: 'rene78/BitcoinMythBusters',
-  loadNavbar: true,
+  // loadNavbar: true,
   disqus: 'btcmythbusters',
   search: {
     maxAge: 86400000, // Expiration time, the default one day
