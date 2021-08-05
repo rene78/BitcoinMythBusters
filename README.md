@@ -74,7 +74,7 @@ Independent reports suggest that the illicit use of Bitcoin is not higher than i
 
 **Answer**
 ```
-The decentralized nature of Bitcoin makes it impossible even for governments to eliminate it completely. By trying, companies in these countries could lose the ability to compete in a financial sector completely reshaped by cryptocurrencies.
+The decentralized nature of Bitcoin makes it impossible even for governments to eliminate it completely. By trying, companies in these countries could lose the ability to compete in a financial sector entirely reshaped by cryptocurrencies.
 ```
 <details>
 
