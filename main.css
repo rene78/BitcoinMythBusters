@@ -55,6 +55,7 @@ img + em {
   right: 7px;
   bottom: 15px;
   transition: background 0.5s;
+  z-index: 1;
 }
 
 .to-top:hover {
