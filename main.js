@@ -151,3 +151,11 @@ document.addEventListener('click', (e) => {
     localStorage.setItem("route", hash);
   }, 500)
 });
+
+//Scroll down to help when clicking on "Help"
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
