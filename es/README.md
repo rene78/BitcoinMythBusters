@@ -3,6 +3,8 @@
   <img width="200" src="..\_images\Logo-BTCMythBusters.png" alt="logo of BitcoinMythBusters">
 </div>
 
+***
+
 # Objetivo
 
 *BitcoinMythBusters* te ayuda a dar **respuestas concluyentes a críticas justificadas o infundadas sobre Bitcoin**. Haz clic en la respuesta para copiar el texto y utilizarlo en cualquier red social, foro o aplicación de mensajería que desees. **No es necesario perder el tiempo respondiendo manualmente a las mismas preocupaciones una y otra vez.**
