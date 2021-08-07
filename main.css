@@ -62,3 +62,8 @@ img + em {
   color: #42b983;
   background: white;
 }
+
+/* Donate button */
+.tc_tip_button {
+  background: #42b983 !important;
+}
