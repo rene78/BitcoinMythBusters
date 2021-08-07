@@ -29,7 +29,7 @@ Mankind evaluates every invention based on its utility for a particular purpose.
 
   For the first time in history, anyone in the world with an internet connection can function as **their very own bank** while participating in the economy with **full control of their wealth**.
 
-  The seven characteristics of money are **durability**, **portability**, **divisibility**, **uniformity**, **limited supply**, and **acceptability**. Many bitcoin proponents adamantly believe that **bitcoin checks all of these boxes** and is therefore hard money with real intrinsic value.
+  The six characteristics of money are **durability**, **portability**, **divisibility**, **uniformity**, **limited supply**, and **acceptability**. Many bitcoin proponents adamantly believe that **bitcoin checks all of these boxes** and is therefore hard money with real intrinsic value.
 
   Oftentimes, those who ascribe zero intrinsic value to bitcoin have done so by way of imperfect knowledge, a narrow perspective, and/or old-aged frameworks that under-represent, if not misrepresent, the capabilities of bitcoin and the very idea of "value".
 

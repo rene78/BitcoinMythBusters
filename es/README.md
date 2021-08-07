@@ -29,7 +29,7 @@ La humanidad evalúa cada invento en función de su utilidad para un fin determi
 
   Por primera vez en la historia, cualquier persona en el mundo con una conexión a Internet puede funcionar como **su propio banco** mientras participa en la economía con **control total de su dinero**.
 
-  Las siete características del dinero son **durabilidad**, **transportabilidad**, **divisibilidad**, **uniformidad**, **oferta limitada** y **aceptabilidad**. Muchos defensores del bitcoin creen firmemente que **el bitcoin cumple todas estas características** y que, por lo tanto, es dinero duro con un valor intrínseco real.
+  Las seis características del dinero son **durabilidad**, **transportabilidad**, **divisibilidad**, **uniformidad**, **oferta limitada** y **aceptabilidad**. Muchos defensores del bitcoin creen firmemente que **el bitcoin cumple todas estas características** y que, por lo tanto, es dinero duro con un valor intrínseco real.
 
   A menudo, los que atribuyen un valor intrínseco nulo al bitcoin lo han hecho por medio de un conocimiento imperfecto, una perspectiva estrecha y/o marcos anticuados que infra-representan, si no tergiversan, las capacidades del bitcoin y la propia idea de "valor".
 

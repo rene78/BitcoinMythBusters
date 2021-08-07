@@ -29,7 +29,7 @@ Die Menschheit bewertet jede Erfindung basierend auf ihrem Nutzen für einen bes
 
   Zum ersten Mal in der Geschichte kann jeder Mensch auf der Welt, der über einen Internetanschluss verfügt, als **seine eigene Bank** fungieren und mit **voller Kontrolle über sein Vermögen** an der Wirtschaft teilnehmen.
 
-  Die sieben Eigenschaften von Geld sind **Stabilität**, **Portabilität**, **Teilbarkeit**, **Gleichheit**, **begrenztes Angebot** und **Akzeptanz**. Viele Bitcoin-Befürworter sind der festen Überzeugung, dass **Bitcoin alle diese Kriterien erfüllt** oder in Zukunft erfüllen wird und daher hartes Geld mit einem echten intrinsischen Wert darstellt.
+  Die sechs Eigenschaften von Geld sind **Stabilität**, **Portabilität**, **Teilbarkeit**, **Gleichheit**, **begrenztes Angebot** und **Akzeptanz**. Viele Bitcoin-Befürworter sind der festen Überzeugung, dass **Bitcoin alle diese Kriterien erfüllt** oder in Zukunft erfüllen wird und daher hartes Geld mit einem echten intrinsischen Wert darstellt.
 
   Oftmals haben diejenigen, die dem Bitcoin keinen intrinsischen Wert zuschreiben, dies aufgrund von unvollkommenem Kenntnisstand, einer eingeschränkten Perspektive und/oder veralteten Rahmenwerken getan, die die Fähigkeiten des Bitcoins und die Grundidee von "Wert" unterbewertet, wenn nicht sogar falsch dargestellt haben.
 
