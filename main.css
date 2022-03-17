@@ -1,3 +1,21 @@
+/* CSS related to increase font size */
+.markdown-section>:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
+  font-size: 1rem;
+}
+
+.markdown-section>* {
+  font-size: 1.1rem;
+}
+
+.markdown-section pre {
+  padding: 0 0.7rem;
+}
+
+.sidebar ul li a {
+  font-size: 17px;
+}
+
+/* General page layout */
 code {
   white-space: pre-wrap !important;
   background-color: #e9e9e9 !important;
