@@ -1,3 +1,10 @@
+/* Move edit on GitHub button to the top left */
+.markdown-section>:first-child {
+    position: absolute;
+    left: 0;
+    top: -35px;
+}
+
 /* CSS related to increase font size */
 .markdown-section>:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
   font-size: 1rem;
