@@ -242,7 +242,7 @@ Bitcoin funktioniert seit seiner Einführung im Jahr 2009 einwandfrei. Was gehac
 
 **Antwort**
 ```
-Bitcoin zeigt keine Anzeichen eines Schneeballsystems: Alte Investoren werden nicht mit dem Geld von neuen bezahlt, es gab keine Vorproduktion von Coins für die Urheber und es gibt kein Führungsteam. Bitcoin ist seit seiner Entstehung sehr organisch gewachsen und der Markt bewertet den Vermögenswert, wie er es für richtig hält.
+Bitcoin zeigt keine Anzeichen eines Schneeballsystems: Alte Investoren werden nicht mit dem Geld von neuen bezahlt, es gab keine Vorproduktion von Coins für die Urheber und es gibt kein Führungsteam. Ein Schneeballsystem braucht im Gegensatz zu Bitcoin konstantes Wachstum, um nicht zu implodieren. Bitcoin ist seit seiner Entstehung sehr organisch gewachsen und der Markt bewertet den Vermögenswert, wie er es für richtig hält.
 ```
 <details>
 

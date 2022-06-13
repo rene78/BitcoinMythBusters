@@ -244,7 +244,7 @@ Bitcoin has been working flawlessly almost since its inception in 2009. What is 
 
 **Answer**
 ```
-Bitcoin shows no signs of a Ponzi scheme: Old investors are not paid with money from new ones, there was no premining of coins and it does not have a leadership team. Bitcoin grew very organically since its creation and the market is pricing the asset, as it sees fit.
+Bitcoin shows no signs of a Ponzi scheme: Old investors are not paid with money from new ones, there was no premining of coins and it does not have a leadership team. A pyramid scheme, as opposed to Bitcoin, needs constant growth in order not to implode. Bitcoin grew very organically since its creation and the market is pricing the asset, as it sees fit.
 ```
 <details>
 
