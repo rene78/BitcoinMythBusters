@@ -25,7 +25,7 @@ Die Menschheit bewertet jede Erfindung basierend auf ihrem Nutzen für einen bes
 
   <summary>Detaillierte Antwort</summary>
 
-  Für die Befürworter liegt der intrinsische Wert von Bitcoin in der Tatsache, dass er ein **knapper**, **unkorrelierter Vermögenswert** mit einzigartigen immateriellen Eigenschaften (**unveränderlich**, **offen**, **grenzüberschreitend**, **dezentralisiert**, **zensurresistent**, etc.) darstellt.
+  Für die Befürworter liegt der intrinsische Wert von Bitcoin in der Tatsache, dass er einen **knappen**, **unkorrelierten Vermögenswert** mit einzigartigen immateriellen Eigenschaften (**unveränderlich**, **offen**, **grenzüberschreitend**, **dezentralisiert**, **zensurresistent**) darstellt.
 
   Zum ersten Mal in der Geschichte kann jeder Mensch auf der Welt, der über einen Internetanschluss verfügt, als **seine eigene Bank** fungieren und mit **voller Kontrolle über sein Vermögen** an der Wirtschaft teilnehmen.
 
