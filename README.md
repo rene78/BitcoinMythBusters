@@ -347,4 +347,4 @@ You can add or edit questions and answers by clicking the *Edit on GitHub* butto
 
 The only cost incurred for this site is the annual payment for the domain name ($12). If you feel like helping me on this - thanks very much in advance! With the link below you can donate via Lightning or On-Chain.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donate" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="Donate"></div>
