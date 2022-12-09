@@ -27,9 +27,9 @@ L'umanità valuta ogni invenzione in base alla sua utilità per uno scopo partic
 
   Per i sostenitori, il valore intrinseco di Bitcoin sta nel fatto che è un **scarso**, **asset non correlato** con proprietà intangibili uniche (**immutabile**, **aperto**, **senza confini**, **decentrato**, **resistente alla censura**, ecc.)
 
-  Per la prima volta nella storia, chiunque nel mondo con una connessione internet può funzionare come **la propria banca** e partecipare all'economia con **il pieno controllo della propria ricchezza**.
+  Per la prima volta nella storia, chiunque nel mondo con una connessione internet può operare come **la propria banca** e partecipare all'economia con **il pieno controllo della propria ricchezza**.
 
-  Le sette caratteristiche del denaro sono **durevolezza**, **portabilità**, **divisibilità**, **uniformità**, **offerta limitata** e **accettabilità**. Molti sostenitori del bitcoin credono fermamente che il **bitcoin spunta tutte queste caselle** ed è quindi denaro duro con un reale valore intrinseco.
+  Le sette caratteristiche del denaro sono **durevolezza**, **portabilità**, **divisibilità**, **uniformità**, **offerta limitata** e **accettabilità**. Molti sostenitori del bitcoin credono fermamente che il **bitcoin spunta tutte queste caselle** ed è quindi moneta forte con un reale valore intrinseco.
 
   Spesso, coloro che attribuiscono zero valore intrinseco al bitcoin l'hanno fatto a causa di una conoscenza imperfetta, una prospettiva ristretta, e/o quadri di riferimento vecchi che sottorappresentano, se non travisano, le capacità del bitcoin e l'idea stessa di "valore".
 
@@ -39,7 +39,7 @@ L'umanità valuta ogni invenzione in base alla sua utilità per uno scopo partic
 
 ## Bitcoin è usato solo dai criminali
 
-> ***Bitcoin è usato da spacciatori di droga, riciclatori di denaro e attaccanti di ransomware; quindi è cattivo.***
+> ***Bitcoin è usato da spacciatori di droga, riciclatori di denaro e sfruttatori di ransomware; quindi è cattivo.***
 
 **Risposta**
 ```
@@ -68,7 +68,7 @@ Rapporti indipendenti suggeriscono che l'uso illecito di Bitcoin non è superior
 
 </details>
 
-## Il governo chiuderà Bitcoin
+## Il governo spegnerà Bitcoin
 
 > ***I governi non permetteranno una valuta concorrente che non possono controllare.***
 
@@ -166,11 +166,11 @@ La rete Bitcoin ha dimostrato di funzionare in modo impeccabile sin dal suo iniz
 
 ## Bitcoin è una bolla
 
-> ***Come i bulbi di tulipano dell'Olanda del 17° secolo, Bitcoin è una mania al dettaglio, che svanirà.***
+> ***Come i bulbi di tulipano dell'Olanda del 17° secolo, Bitcoin è una mania del commercio al dettaglio, che svanirà.***
 
 **Risposta**
 ```
-Normalmente le bolle di investimento non tornano più dopo essere scoppiate. Bitcoin d'altra parte ha avuto più di questi cicli - con ogni bolla più grande di quella precedente. Questo può essere interpretato come cicli di adozione naturale con sempre più persone che si incuriosiscono e imparano le proprietà uniche di Bitcoin durante ogni corsa al toro.
+Normalmente le bolle di investimento non tornano più dopo essere scoppiate. Bitcoin d'altra parte ha avuto più di questi cicli - con ogni bolla più grande di quella precedente. Questo può essere interpretato come cicli di adozione naturale con sempre più persone che si incuriosiscono e imparano le proprietà uniche di Bitcoin durante ogni corsa al rialzo.
 ```
 <details>
 
@@ -187,11 +187,11 @@ Normalmente le bolle di investimento non tornano più dopo essere scoppiate. Bit
 
 ## Bitcoin fallisce come valuta / non può scalare
 
-> ***La volatilità, la lentezza delle transazioni e le alte commissioni squalificano Bitcoin per l'uso quotidiano come metodo di pagamento.***
+> ***La volatilità, la lentezza delle transazioni e le alte commissioni rendono Bitcoin inadatto per l'uso quotidiano come metodo di pagamento.***
 
 **Risposta**
 ```
-La volatilità dovrebbe diminuire man mano che Bitcoin immagazzina più valore a causa della maggiore adozione e maturità. I tempi di transazione lenti e i conseguenti alti costi di transazione possono essere risolti con l'aiuto di strati, che sono costruiti sopra il livello di regolamento di Bitcoin. Il più popolare è la "Lightning Network" al momento, che permette transazioni quasi istantanee per commissioni trascurabili.
+La volatilità dovrebbe diminuire man mano che Bitcoin immagazzina più valore a causa della maggiore adozione e maturità. I tempi di transazione lenti e i conseguenti alti costi di transazione possono essere risolti con l'aiuto di strati, costruiti sopra al livello base di Bitcoin. Il più popolare è la "Lightning Network" al momento, che permette transazioni quasi istantanee per commissioni trascurabili.
 ```
 <details>
 
@@ -216,11 +216,11 @@ La volatilità dovrebbe diminuire man mano che Bitcoin immagazzina più valore a
 
 ## Bitcoin viene hackerato
 
-> ***C'è un sacco di notizie sul fatto che Bitcoin è stato hackerato e sono stati presi milioni di dollari. Questo non può essere un sistema sicuro.***
+> ***Ci sono molte notizie sul fatto che Bitcoin sia stato hackerato e siano stati rubati milioni di dollari. Questo non può essere un sistema sicuro.***
 
 **Risposta**
 ```
-Bitcoin ha funzionato in modo impeccabile quasi dalla sua nascita nel 2009. Ciò che viene violato sono gli scambi di criptovalute e altre entità centralizzate. È simile ad affermare che il dollaro USA è una cattiva valuta perché le banche vengono derubate.
+Bitcoin ha funzionato in modo impeccabile quasi dalla sua nascita nel 2009. Ciò che viene violato sono le piattaforme di scambi di criptovalute e altre entità centralizzate. Equivarrebbe ad affermare che il dollaro USA è una cattiva valuta perché le banche vengono derubate.
 ```
 <details>
 
@@ -228,7 +228,7 @@ Bitcoin ha funzionato in modo impeccabile quasi dalla sua nascita nel 2009. Ciò
 
   Bitcoin è di gran lunga il sistema di rete più sicuro grazie alla sua natura decentralizzata e agli innumerevoli computer specializzati in tutto il mondo, che assicurano che il sistema non possa essere manomesso.
 
-  Per trarre il massimo vantaggio dalla sicurezza, uno dovrebbe assicurarsi di auto custodire le sue monete.
+  Per trarre il massimo vantaggio dalla sicurezza, una persona dovrebbe assicurarsi di custodire personalmente le sue monete.
 
   > "Non le tue chiavi, non le tue monete!" - Andreas M. Antonopoulos
 
@@ -236,13 +236,13 @@ Bitcoin ha funzionato in modo impeccabile quasi dalla sua nascita nel 2009. Ciò
 
 </details>
 
-## Bitcoin è uno schema di Ponzi
+## Bitcoin è uno schema Ponzi
 
-> ***Una volta che la gente smette di versare nuovo denaro in Bitcoin, crollerà rapidamente.***
+> ***Una volta che la gente smette di introdurre nuovi capitali in Bitcoin, crollerà rapidamente.***
 
 **Risposta**
 ```
-Bitcoin non mostra segni di uno schema Ponzi: I nuovi investitori non sono pagati con i soldi dei vecchi, non c'è stato un preminio di monete e non ha un team di leadership. Bitcoin è cresciuto molto organicamente dalla sua creazione e il mercato sta valutando l'asset come meglio crede.
+Bitcoin non mostra segni di uno schema Ponzi: i nuovi investitori non sono pagati con i soldi dei precedenti, non c'è stata una generazione anticipata di monete e non ha un team che lo comanda. Bitcoin è cresciuto molto organicamente dalla sua creazione e il mercato sta valutando l'asset come meglio crede.
 ```
 <details>
 
@@ -254,7 +254,7 @@ Bitcoin non mostra segni di uno schema Ponzi: I nuovi investitori non sono pagat
   | ------------------------|------------------------|
   | Promesso alti ritorni di investimento | <span style="color:green">Satoshi (il creatore) non ha mai promesso alcun ritorno</span> |
   | Dichiarazioni fuorvianti o del tutto errate riguardo alla strategia aziendale | <span style="color:green">Bitcoin è stato open-sourced fin dall'inizio</span> |
-  | Team di leadership "estroverso" | <span style="color:green">Il creatore di Bitcoin è sconosciuto. Il resto della comunità dev è altamente decentralizzata</span>|
+  | Team di leadership "estroverso" | <span style="color:green">Il creatore di Bitcoin è sconosciuto. Il resto della comunità di sviluppatoru è altamente decentralizzata</span>|
   | Investimenti non registrati e venditori senza licenza | <span style="color:red">Bitcoin (per fortuna) non ha bisogno di una licenza</span>|
 
   Ulteriori letture (inglese): [Lyn Alden - Bitcoin: Addressing the Ponzi Scheme Characterization](https://www.lynalden.com/bitcoin-ponzi-scheme/)
@@ -267,7 +267,7 @@ Bitcoin non mostra segni di uno schema Ponzi: I nuovi investitori non sono pagat
 
 **Risposta**
 ```
-Questo potrebbe essere un pericolo una volta che i computer quantistici con sufficiente potenza di elaborazione saranno disponibili (possibilmente dal 2035-2050). Il lavoro sugli standard di crittografia post-quantistica è in corso e verrebbe implementato nel protocollo Bitcoin, una volta che se ne presenta la necessità.
+Questo potrebbe essere un pericolo una volta che i computer quantistici con sufficiente potenza di elaborazione saranno disponibili (possibilmente dal 2035-2050). Il lavoro sugli standard di crittografia post-quantistica è in corso e verrebbe implementato nel protocollo Bitcoin, qualora se ne presentasse la necessità.
 ```
 <details>
 
@@ -276,13 +276,13 @@ Questo potrebbe essere un pericolo una volta che i computer quantistici con suff
   Senza standard di crittografia resistenti ai quanti, ci sono 3 possibili vettori di attacco per i computer quantistici:
   * **Rottura dell'algoritmo di hashing di Bitcoin (SHA-256)**
 
-  Al momento non è chiaro se i computer quantistici sono in grado di rompere questo tipo di algoritmo.
+  Al momento non è chiaro se i computer quantistici siano in grado di rompere questo tipo di algoritmo.
 
-  * **Rottura dell'algoritmo della chiave pubblica/privata (ECDSA - Elliptic Curves cryptography)**
+  * **Rottura dell'algoritmo a chiave pubblica/privata (ECDSA - Elliptic Curve cryptography)**
 
   Gli indirizzi Bitcoin riutilizzati - cioè gli indirizzi che hanno pubblicato una firma - sono a rischio di essere violati. Se anche SHA-256 può essere rotto, allora tutti gli indirizzi Bitcoin sono vulnerabili.
 
-  * **Utilizzare computer quantistici per minare in modo molto più efficiente che con hardware all'avanguardia**
+  * **Utilizzo di computer quantistici per minare in modo molto più efficiente che con hardware all'avanguardia**
 
   Questa potrebbe essere solo una minaccia temporanea fino a quando anche altri minatori passeranno al quantum mining.
 
@@ -296,19 +296,19 @@ Questo potrebbe essere un pericolo una volta che i computer quantistici con suff
 
 ## Bitcoin è controllato dalla Cina
 
-> ***La maggior parte del mining di Bitcoin avviene in Cina. Anche l'hardware per il mining è prodotto lì. Quindi la Cina può prendere il controllo di Bitcoin in qualsiasi momento!***
+> ***La maggior parte del mining di Bitcoin avviene in Cina, dove viene prodotto anche l'hardware per il mining. Quindi la Cina può prendere il controllo di Bitcoin in qualsiasi momento!***
 
 **Risposta**
 ```
-Il potenziale di fare danni possedendo la maggioranza del potere di mining è molto limitato: Una doppia spesa dei fondi del minatore sarebbe possibile investendo enormi quantità di energia e denaro prima che il protocollo Bitcoin sia cambiato per escludere l'attore cattivo e rendere il suo sforzo inutile.
+Il potenziale di fare danni possedendo la maggioranza del potere di mining è molto limitato: una doppia spesa dei fondi del minatore sarebbe possibile investendo enormi quantità di energia e denaro prima che il protocollo Bitcoin sia modificato per escludere l'attore cattivo e rendere il suo sforzo inutile.
 
-Questa minaccia molto teorica è ulteriormente mitigata dalla tendenza verso una distribuzione sempre più globale dell'hash power.
+Questa minaccia molto teorica è ulteriormente mitigata dalla tendenza verso una distribuzione sempre più globale del hashpower.
 ```
 <details>
 
   <summary>Risposta dettagliata</summary>
 
-  I cosiddetti attacchi al 51%, dove un'entità ha più della metà del potere di hashing, sono molto costosi da realizzare, richiedono un'enorme quantità di coordinazione e forniscono pochissimi benefici all'attaccante.
+  I cosiddetti attacchi al 51%, dove un'entità disponde di più della metà del hashpower, sono molto costosi da realizzare, richiedono un'enorme quantità di coordinazione e forniscono pochissimi benefici all'attaccante.
   
   **Questo è ciò che *non* si può fare con un attacco al 51%:**
 
@@ -321,11 +321,11 @@ Questa minaccia molto teorica è ulteriormente mitigata dalla tendenza verso una
 
   * Raddoppiare la spesa del Bitcoin dell'attaccante
 
-    Un attacco molto costoso che potrebbe essere respinto con un cambio di codice. È certamente più sicuro usare il proprio hashpower per trarre profitto dalla messa in sicurezza della rete piuttosto che attaccarla.
+    Un attacco molto costoso che potrebbe essere respinto con una modifica al codice sorgente. È certamente più sicuro usare il proprio hashpower per trarre profitto dalla messa in sicurezza della rete piuttosto che attaccarla.
 
   * Minare blocchi vuoti e rendere la rete inutile
 
-    Deve essere sostenuto per molto tempo per impedire l'uso previsto di Bitcoin. Questo attacco costa enormi quantità di denaro ed energia. Se l'attaccante non si ferma da solo, potrebbe essere implementato un cambio di codice per rendere l'hardware dell'attaccante senza valore.
+    Deve essere sostenuto per molto tempo per impedire l'uso previsto di Bitcoin. Questo attacco costa enormi quantità di denaro ed energia. Se l'attaccante non si ferma da solo, potrebbe essere implementata una modifica al codice per rendere l'hardware dell'attaccante senza valore.
 
   Ulteriore visione (inglese):
 
@@ -337,11 +337,11 @@ Questa minaccia molto teorica è ulteriormente mitigata dalla tendenza verso una
 
 ***
 
-# Contribuire
+# Contribuzioni
 
 Puoi aggiungere o modificare domande e risposte cliccando il pulsante *Edit on GitHub* in cima alla pagina. Se aggiungi una nuova Critique & Answer assicurati di copiare una C&A precedente per avere una formattazione coerente. L'opzione *Auto-merge* è abilitata, quindi tutte le tue modifiche dovrebbero essere visibili subito nel documento, ma mi riservo il diritto di annullare le modifiche che ritengo non utili.
 
-## Donare
+## Donazioni
 
 L'unico costo sostenuto per questo sito è il pagamento annuale per il nome di dominio (10€). Se hai voglia di aiutarmi in questo - grazie mille in anticipo! Con il link qui sotto puoi donare via Lightning o On-Chain.
 
