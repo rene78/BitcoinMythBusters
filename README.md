@@ -140,9 +140,10 @@ How much does mankind value a scarce, completely decentralized and censorship re
     Less energy is needed to mine Bitcoin due to stagnating competition in mining.
 
 
-  Further reading: [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
-
-  [Fillippone - Debunking the "Bitcoin is an environmental disaster" argument](https://bitcointalk.org/index.php?topic=5325350)
+  Further reading:
+  - [Athena Alpha - Bitcoin Proof Of Work: Everything You Should Know](https://www.athena-alpha.com/proof-of-work/)
+  - [Coindesk - The Last Word on Bitcoin’s Energy Consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption)
+  - [Fillippone - Debunking the "Bitcoin is an environmental disaster" argument](https://bitcointalk.org/index.php?topic=5325350)
 
 </details>
 
