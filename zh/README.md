@@ -346,4 +346,4 @@
 
 这个网站产生的唯一费用是每年支付的域名费用（12美元）。如果你想在这方面帮助我--请提前感谢我! 通过下面的链接，你可以通过闪电或On-Chain进行捐赠。
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="捐赠" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="捐赠"></div>

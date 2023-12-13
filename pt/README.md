@@ -342,4 +342,4 @@ Você pode adicionar ou editar perguntas e respostas clicando no botão *Edit on
 
 O único custo incorrido para este site é o pagamento anual do nome de domínio ($12). Se você quiser me ajudar nisto - muito obrigado antecipadamente! Com o link abaixo, você pode doar via Lightning ou On-Chain.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Doar" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="Doar"></div>

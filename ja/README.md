@@ -345,4 +345,4 @@
 
 このサイトにかかる費用は、ドメイン名の年間支払額（12ドル）だけです。もしあなたが私を助けたいと思ってくださるなら、事前にとても感謝しています。以下のリンクから、LightningまたはOn-Chain経由で寄付することができます。
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="寄贈" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="寄贈"></div>

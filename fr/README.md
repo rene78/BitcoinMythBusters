@@ -345,4 +345,4 @@ Vous pouvez ajouter ou modifier des questions et des réponses en cliquant sur l
 
 Le seul coût encouru pour ce site est le paiement annuel pour le nom de domaine (10€). Si vous avez envie de m'aider, merci beaucoup d'avance ! Avec le lien ci-dessous, vous pouvez faire un don via Lightning ou On-Chain.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Faire un don" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="Faire un don"></div>

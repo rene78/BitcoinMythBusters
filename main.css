@@ -90,5 +90,10 @@ img + em {
 
 /* Donate button */
 .tc_tip_button {
-  background: #42b983 !important;
+  background: #42b983;
+  color: white;
+}
+
+.tc_tip_button:hover {
+  opacity: 0.9;
 }

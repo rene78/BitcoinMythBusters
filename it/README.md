@@ -345,4 +345,4 @@ Puoi aggiungere o modificare domande e risposte cliccando il pulsante *Edit on G
 
 L'unico costo sostenuto per questo sito è il pagamento annuale per il nome di dominio (10€). Se hai voglia di aiutarmi in questo - grazie mille in anticipo! Con il link qui sotto puoi donare via Lightning o On-Chain.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Donare" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="Donare"></div>

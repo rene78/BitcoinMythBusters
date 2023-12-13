@@ -347,4 +347,4 @@
 
 Единственные расходы, понесенные для этого сайта - это ежегодный платеж за доменное имя ($12). Если у вас есть желание помочь мне в этом - заранее большое спасибо! По ссылке ниже вы можете сделать пожертвование через Lightning или On-Chain.
 
-<div class="tallypay" data-user="rene78" data-size="button" data-button_text="Пожертвовать" ></div>
+<div class="tallypay" data-user_name="rene78" data-button="Пожертвовать"></div>
