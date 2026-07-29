@@ -10,6 +10,7 @@ window.$docsify = {
   repo: 'rene78/BitcoinMythBusters',
   // loadNavbar: true,
   disqus: 'btcmythbusters',
+  routerMode: 'history',
   search: {
     maxAge: 86400000, // Expiration time, the default one day
     paths: [
